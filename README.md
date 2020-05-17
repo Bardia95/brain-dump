@@ -13,7 +13,7 @@ Download instructions:
 `cd brain-dump`
 
 Export your Roam database to JSON like so:
-TODO ![Export All Demo](Export-All-Roam-Demo.gif)
+TODO ![Export All Demo](resources/Export-All-Roam-Demo.gif)
 
 Save/move the JSON to the brain-dump root project directory.
 
