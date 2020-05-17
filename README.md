@@ -13,7 +13,8 @@ Download instructions:
 `cd brain-dump`
 
 Export your Roam database to JSON like so:
-TODO ![Export All Demo](resources/Export-All-Roam-Demo.gif)
+
+![Export All Demo](resources/Export-All-Roam-Demo.gif)
 
 Save/move the JSON to the brain-dump root project directory.
 
@@ -28,8 +29,8 @@ Make sure to replace "YOUR_ROAM_DIRECTORY.json" with the name of your roam direc
 The updated files will be inside the roamified-notes directory.
 
 Import your new Roamified notes to Roam like so:
-TODO ![Import Files Demo](resources/Import-Files-Roam-Demo.gif)
 
+![Import Files Demo](resources/Import-Files-Roam-Demo.gif)
 
 ## Dependencies
 
