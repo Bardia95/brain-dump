@@ -28,7 +28,7 @@ Make sure to replace "YOUR_ROAM_DIRECTORY.json" with the name of your roam direc
 The updated files will be inside the roamified-notes directory.
 
 Import your new Roamified notes to Roam like so:
-TODO ![Import Files Demo](Import-Files-Roam-Demo.gif)
+TODO ![Import Files Demo](resources/Import-Files-Roam-Demo.gif)
 
 
 ## Dependencies
