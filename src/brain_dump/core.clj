@@ -34,7 +34,7 @@
 (def output-dir "roamified-notes")
 
 (defn -main [roam-src]
-  (for [file (rest (file-seq (file input-dir)))]
+  (doseq [file (rest (file-seq (file input-dir)))]
     (spit (str output-dir "/" (.getName file))
           (->> roam-src
                db

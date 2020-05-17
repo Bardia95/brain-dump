@@ -1,14 +1,46 @@
 # brain-dump
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to help move your notes to [Roam Research](https://roamresearch.com).
+
+brain-dump will extract all your page titles and linked references and automatically link the notes you want to move to Roam
 
 ## Usage
 
-FIXME
+Download instructions:
+
+`git clone https://github.com/Bardia95/brain-dump.git`
+
+`cd brain-dump`
+
+Export your Roam database to JSON like so:
+TODO ![Export All Demo]()
+
+Save/move the JSON to the brain-dump root project directory.
+
+Put in any files you want to convert into the input-notes directory.
+
+Then run this in your terminal:
+
+`lein run "YOUR_ROAM_DIRECTORY.json"`
+
+Make sure to replace "YOUR_ROAM_DIRECTORY.json" with the name of your roam directory file.
+
+The updated files will be inside the roamified-notes directory.
+
+Import your new Roamified notes to Roam like so:
+TODO ![Import Files Demo]()
+
+
+## Dependencies
+
+`java`
+`jvm`
+`clojure`
+`leiningen`
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 The Periculum Erudition Corporation
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
