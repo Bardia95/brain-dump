@@ -6,21 +6,19 @@ brain-dump will extract all your page titles and linked references and automatic
 
 ## Usage
 
-**Download instructions:**
-
 1. `git clone https://github.com/Bardia95/brain-dump.git`
 
 2. `cd brain-dump`
 
 3. Export your Roam database to JSON like so:
 
-4. ![Export All Demo](resources/Export-All-Roam-Demo.gif)
+![Export All Demo](resources/Export-All-Roam-Demo.gif)
 
-5. Save/move the JSON to the brain-dump root project directory.
+4. Save/move the JSON to the brain-dump root project directory.
 
-6. Put in any files you want to convert into the input-notes directory.
+5. Put in any files you want to convert into the input-notes directory.
 
-7. Run this in your terminal:
+6. Run this in your terminal:
 
 `lein run "YOUR_ROAM_DIRECTORY.json"`
 
@@ -28,7 +26,7 @@ _Make sure to replace "YOUR_ROAM_DIRECTORY.json" with the name of your roam dire
 
 _The updated files will be inside the roamified-notes directory._
 
-8. Import your new Roamified notes to Roam like so:
+7. Import your new Roamified notes to Roam like so:
 
 ![Import Files Demo](resources/Import-Files-Roam-Demo.gif)
 
