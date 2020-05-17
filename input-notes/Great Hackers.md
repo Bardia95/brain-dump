@@ -1,0 +1,50 @@
+**Great Hackers**
+**
+**
+- Variation in wealth can be a sign of variation in productivity
+	- Almost certainly a good thing:
+		- If a society has no variation in productivity its not because everyone’s a genius inventor its because no ones a genius inventor
+	- Low-tech societies don’t show much variation in productivity
+		- Collecting sticks - you can only be better than another by a small factor
+		- Complex tools like computers - variation in what you can do much greater
+- Its hard deciding what problems to solve
+	- Imagination is hard to measure, but in practice it dominates the kind of productivity thats measured in lines of code
+- Productivity varies in any field, but there are a few in which it varies a lot
+	- Variation between programmers is so great that it becomes a difference in kind
+- In every field, technology magnifies differences in productivity
+	- In programming, there’s a lot of technological leverage
+	- But in every field, the lever is getting longer, so the variation we see is something that more and more fields will see as time goes on
+	- The success of companies and countries will depend increasingly on how they deal with it
+- If variation in productivity increases with technology, then the contribution of the most productive individuals will not only be disproportionately large, but will actually grow with time
+	- When you reach the point where 90% of a group’s output is created by 1% of its members, you lose big if something drags their productivity down to the average
+- Defining quality of super-hackers is probably that they really love to program
+	- All they really care about is doing interesting work
+- A great programmer might be 10-100x more productive as an ordinary one, but he’ll consider himself lucky to get paid 3x as much
+- Hackers like good tools
+	- They find it unbearable to use bad tool
+	- They’ll simply refuse to work on projects with the wrong infrastructure
+- When you decide what infrastructure to use for a project, you’re not just making a technical decision, you’re also making a social decision
+	- When you choose a language, you’re also choosing a community
+	- Quality of your hackers probably matters more than the language you choose
+- Great hackers also generally insist on using open source software
+	- It gives them more control
+		- Hackers insist on more control
+- Any application can be interesting if it poses novel technical challenges
+- A good manager can sometimes redefine a problem as a more interesting one
+- Hackers like to work for people with high standards
+- To drive design, a manager must be the most demanding user of a company’s products
+- Working on nasty little problems makes you stupid
+- If your company makes software to do x, have one group that builds tools for writing software of that type, and another that uses these tools to write the applications
+	- This way you might be able to get smart people to write 99% of your code, but still keep them almost as insulated from users as they would be in a traditional research department
+	- The toolmakers would have users, but they’d only be the company’s own developers
+- Great hackers tend to clump together
+- A company that can attract great hackers will have a huge advantage
+- Great hackers: Richard Stallman, Linus Torvalds, Alan Kay
+- They key to being a good hacker may be to work on what you like
+- To do something well you have to love it
+- Hackers are particularly curious especially about how things work
+- Hackers’ ability to concentrate is amazing
+- Great hackers can load a large amount of context into their head, so that when they look at a line of code, they see not just that line but the whole program around it
+- Recipe to become a great hacker:
+	- Never work on boring projects and you will never allow yourself to do a half-assed job
+

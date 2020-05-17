@@ -1,0 +1,47 @@
+Holding a program in one’s head
+
+- A good programmer working intensively on his own code can hold it in his mind the way a mathematician holds a problem he’s working on
+- Try to understand a problem space well enough that you can walk around it in the way you can walk around the memory of the house you grew up in
+	- At its best programming is the same
+		- You hold the whole program in your head and you can manipulate it at will
+- Initially the most important thing is to be able to change what you’re doing
+	- Not just solve the problem in a different way, but to change the problem you’re solving
+- Your code is your understanding of the problem you’re exploring
+	- So it’s only when you have your code in your head that you really understand the problem
+- Ordinary programmers working in typical office conditions never really understand the problems they’re solving
+- **Avoid distractions**
+	- The danger of a distraction depends not on how long it is, but on how much it scrambles your brain
+	- Oddly enough, schedule distractions may be worse than unscheduled ones
+		- If you know you have a meeting in an hour, you don’t even start working on something hard
+- **Work in long stretches**
+	- Work best in chunks of no more than 12 hours
+	- The optimum is not the limit you can physically endure
+- **Use succicnt languages**
+	- The more succinct the language, the shorter the program, and the easier it is to load and keep in your head
+	- Magnify the effect of a powerful language by using a style called bottom-up programming, where you write programs in multiple layers, the lower ones acting as programming languages for those above
+		- If you do this right, you only have to keep the topmost layer in your head
+- **Keep rewriting your program**
+	- You have to understand a program completely to rewrite it, so there is no better way to get one loaded into your head
+- **Write rereadable code**
+	- You yourself are the most important reader
+- **Work in small groups**
+	- The smaller the number of programmers the more completely a project can mutate
+		- If there’s just one programmer as often there is at first, you can do all-encompassing redesigns
+- **Don’t have multiple people editing the same piece of code**
+	- You never understand other people’s code as well as your own
+		- No matter how thoroughly you’ve read it, you’ve only read it, not written it
+	- You can’t safely redesign something other people are working on
+	- If you want to put several people to work on a project, divide it into components and give each to one person
+- **Start small**
+	- Write a prototype that solves a subset of the problem
+	- Whatever the advantages of planning, they’re often outweighed by the advantages of being able to keep a program in your head
+- Officially sanctioned projects often manage to do all 8 above things wrong
+- One of there defining qualities of organizations since there have been such a thing is to treat individuals as interchangeable parts
+	- This works well for more parallelizable tasks, like fighting wars
+		- For most of history a well-drilled army of professional soldiers could be counted on to beat an army of individual warriors, no matter how valorous
+	- But having ideas is not very parallelizable and that’s what programs are: ideas
+- Maybe  we could define a new kind of organization that combined the efforts of individuals without requiring them to be interchangeable
+	- The best we’ll do is some kind of hack, like making the programming parts of an organization work differently from the rest
+	- Perhaps the optimal solution is for big companies not even to try to develop ideas in-house but simply to buy them
+- Take on the kind of problems that have to be solved in one big brain
+

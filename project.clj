@@ -5,5 +5,6 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [cheshire "5.10.0"]]
+  :resource-paths ["resources"]
   :repl-options {:init-ns brain-dump.core}
   :main ^:skip-aot brain-dump.core)

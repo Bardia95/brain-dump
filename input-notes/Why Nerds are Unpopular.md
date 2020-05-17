@@ -1,0 +1,57 @@
+**Why Nerds are Unpopular**
+**
+**
+- Nerds serve two masters
+	- They want to be popular but they want even more to be smart
+- Teenagers are always on duty as conformists
+	- Example: teenage kids pay a great deal of attention to clothes
+		- They don’t consciously dress to popular, they dress to look good but to other kids
+		- Other kids’ opinions become their definition of right, not just for clothes, but for almost everything they do, right down to the way they talk
+		- So every effort they make to do things right is also an effort to be more popular
+- In general, people outside some very demanding field don’t realize the extent to which success depends on constant effort
+- The main reason nerds are unpopular is that they have other things to think about
+	- Their attention is drawn to books or the natural world, not fashion and parties
+- In any social hierarchy, people unsure of their own position will try and emphasize it by maltreating those they think rank below
+	- This is why poor whites are the group most hostile to blacks in the US
+- To become more popular, you need to constantly be doing things that bring you closer tot other popular people and nothing brings people closer than a common enemy
+	- Attacking an outsider makes them all insiders
+	- Most of the persecution comes from kids lower down, the nervous middle classes
+- The inhabitants of school and prison are trapped in little bubbles where nothing they do can have more than a local effect
+	- Naturally these societies degenerate into savagery, they have no function for their form to follow
+- When the things you do have real effects, it’s no longer enough to just be pleasing, it starts to be important to get the right answers
+- In a large enough pool, even the smallest minorities can achieve a critical mass if they clump together
+- The suburbs are boring and sterile because they’re a place to have kids; the whole place is a giant nursery, an artificial town created explicitly for the purpose of breeding children
+	- Suburbs are deliberately designed to exclude the outside world, because it contains things that could endanger children
+- Officially the purpose of schools is to teach kids
+	- In fac their primary purpose is to keep kids locked up in one place for a big chunk of the day so adults can get things done
+		- In a specialized industrial society, it would be a disaster to have kids running around loose
+- The problem is kids aren’t told that they are in prison and that the prison is run by the inmates 
+	- Kids are sent off to spend 6 years memorizing meaningless facts in a world ruled by a caste of giants who run after an oblong brown ball as if this were the most natural thing in the world
+- Teenagers are crazy because of schools, suburbia, neurotic lapdogism
+- In school, there was never anything real to work on
+	- Work is identity and work in school is pointless
+	- Most often it was arbitrary series of hoops to jump through, words without content designed mainly for testability
+- Teenage kids used to have a more active role in society
+	- In pre-industrial times they were all apprentices of one sort or another 
+	- Teenagers seem to have respected adults more then because the adults were the visible experts in the skills they were trying to learn
+	- Now most kids have little idea what their parents do in their distant offices, and see no connection between schoolwork and the work they’ll do as adults
+- After a couple years’ training, an apprentice could be a real help
+	- Now adults have no immediate use for teenagers
+- As jobs become more specialized, we have to train longer for them
+	- Teenagers now are useless except as cheap labour in industries like fast food, which evolved to exploit precisely this fact
+- The stated purpose of schools is to educate the kids
+	- But there is no external pressure to do this well and so most schools do such a bad job of teaching that the kids don’t really take it seriously - not even the smart kids
+	- Much of the time we were all, students and teachers both, just going through the motions
+- In almost any group of people you’ll find hierarchy
+	- When groups of adults form in the real world, it’s generally for some common purpose and the leaders end up being those who are best at it
+	- The problem with most schools is they have no purpose but hierarchy there must be and so the kids make one out of nothing
+- School degenerates into a popularity contest because instead of depending on some real test, one’s rank depends mostly on one’s ability to increase one’s rank
+- When there is some real external test of skill it isn’t painful to be at the bottom of the hierarchy
+	- Rookies don’t resent veterans for their skill, he hopes to be like him one day and is happy to have the chance to learn from him
+	- Status also depends on how well they do against opponents not on whether they can push the other down
+- The mediocrity of American public schools has worse consequences than just making kids unhappy for 6 years; it breeds a rebelliousness that actively drives kids away from the things they’re supposed to be learning
+- Misrule breeds rebellion
+- The real problem is the emptiness of school life
+- School is a strange, artificial thing, half sterile and half feral
+	- It’s all-encompassing like life, but it isn’t the real thing
+

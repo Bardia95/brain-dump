@@ -1,0 +1,54 @@
+**What business can learn from open source**
+
+- People just produce whatever they want; the good stuff spreads and the bad gets ignored
+- People have always been willing to do great work for free
+- People work a lot harder on stuff they like
+	- The structure of business doesn’t reflect this
+- We were designed to work
+- People working for love often surpass those working for money
+- Professionalism was largely a fashion driven by conditions that happened to exist in the 20th century
+	- One of the most powerful of those was the existence of channels
+		- Distribution channels, TV and radio channels
+	- The narrowness of such channels made professionals seem so superior to amateurs
+- There is nothing new except the names and places in most news about things going wrong
+	- What do you learn about the world from these stories?
+		- Absolutely nothing
+			- They’re outlying data points; what makes the gripping also makes them irrelevant
+- If you depend on an oligopoly, you sink into bad habits that are hard to overcome when you suddenly get competition
+- If employees have to be in the building a certain number of hours a day and are forbidden to do non-work things while there, then they must be working in theory
+	- In practice they spend a lot of time in a no-mans land where they’re neither working nor having fun
+- If you could measure how much work people did, a fixed workday would be replaced by this:
+	- This is what you have to do, do it whenever you like, wherever you like
+	- If your work requires you to talk to other people in the company then you may need to be here a certain amount, otherwise we don’t care
+- The problem with the FaceTime model is not just that its demoralizing, but that the people pretending to work interrupt the ones actually working
+- When so much times goes in one end and so little achievement comes out the other, something has to give
+	- Meetings are the main mechanism for taking up the slack
+- Meetings feel wonderfully relaxing, they counted as work but they were much easier than real work
+	- All you have to do is sit and look attentive
+	- Meetings are like an opiate with a network effect
+		- In addition to the direct cost in time, there’s the cost in fragmentation; breaking people’s day up into bits too small to be useful
+- The other problem with pretend work is that it often looks better than real work
+	- When writing or hacking, you spend as much time thinking as you do typing
+	- Half the time, you’re sitting drinking a cup of tea, or walking around the neighbourhood
+		- This is a critical phase, this is where the ideas come from, yet you’d feel guilty doing this in most offices with everyone looking busy
+- Ideas can bubble up from the bottom instead of flowing down from the top
+	- Open source is bottom up: people make what they want and the best stuff prevails
+		- Principle of a market economy
+- Two forces that steer design together:
+	- Ideas about what to do next
+	- Enforcement of quality
+- Open source software is more reliable precisely because its open source; anyone can find mistakes
+- Many employees would like to build great things for the companies they work for but more often than not management won’t let them
+- 3 big lessons:
+	- People work harder on things they like
+	- Standard office environment is very unproductive
+	- Bottom-up often works better than top-down
+- Nothing shows more clearly that employment is not an ordinary economic relationship than companies being sued for firing people
+- You can’t expect employers to have some kind of paternal responsibility toward employees without putting employees in the position of children
+	- It’s demoralizing to be on the receiving end of a paternalistic relationship, no matter how cozy the terms
+- Why not let people spend 100% of their time on their own projects and instead of trying to approximate the value of what they create, give them actual market value?
+- At the moment, even the smartest students leave school thinking they have to get a job
+	- Actually what they need to do is make something valuable
+- Open source: you’l enjoy it more even if you fail
+	- There may be more pain in your own company, but it won’t hurt as much
+

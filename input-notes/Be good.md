@@ -1,0 +1,32 @@
+Be good
+
+- Make something people want
+	- Don’t worry too much about making money
+- If you make people with money love you, you can probably get some of it
+- One way to guess how far an idea extends is to ask yourself at what point would you bet against it
+	- The thought of betting against benevolence is alarming in the same way as saying that something is technically impossible
+- When you’re small, you can’t bully customers, so you have to charm them
+	- Whereas when you’re big you can maltreat them at will, and you tend to, because it’s easier than satisfying them
+	- You grow big by being nice, but you can stay big by being mean
+- “Don’t be evil” may be the most valuable thing Paul Buchheit made for Google, because it may turn out to be an elixir of corporate youth
+	- Anyone can adopt “Don’t be evil”. the catch is that people will hold you to it
+- If you feel you’re really helping people, you’ll keep working even when it seems like your startup is doomed
+	- The mere fact that someone needs you makes you want to help them 
+- Once you have users to take care of, you’re forced to figure out what will make them happy, and that’s actually very valuable information
+- Another advantage of being good is that it makes other people want to help you
+	- This too seems to be an inborn trait in humans
+- If you’re benevolent, people will rally around you: investors, customers, other companies, and potential employees
+	- In the long term, the most important may be the potential employees
+		- The very best hackers tend to be idealistic, they’re not desperate for a job, they can work wherever they want
+			- So most want to work on things that will make the world better
+- Do whatever’s best for your users
+- Being good is a particularly useful strategy form making decisions in complex situations because its stateless
+	- It’s like telling the truth
+		- The trouble with lying is that you have to remember everything you’ve said in the past to make sure you don’t contradict yourself
+		- If you tell the truth you don’t have to remember anything, and thats a really useful property in domains where things happen fast
+- You can’t be buying users, that’s a pyramid scheme
+- The idea of starting a company with benevolent aims is currently undervalued, because the kind of people who currently make that their explicit goal usually do a very good job
+- Most explicitly benevolent projects don’t hold themselves sufficiently accountable
+	- They act as if having good intentions were enough to guarantee good effects
+- 
+

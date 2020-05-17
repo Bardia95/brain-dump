@@ -1,0 +1,163 @@
+The Power of the Marginal
+
+- **Outsiders**
+	- Great new things often come from the margins and yet the people who discover them are looked down on by everyone including themselves
+- **Insiders**
+	- One reason so many good ideas come from the margin is simply that there’s so much of it
+	- There are real disadvantages to being an insider, and in some kinds of work they can outweigh the advantages
+	- A few of the disadvantages of insider projects:
+		- The selection of the wrong kind of people
+		- The excessive scope
+		- The inability to take risks
+		- The need to seem serious
+		- The weight of expectations
+		- The power of vested interests
+		- The undiscerning audience
+		- The tendency of such work to become a duty rather than a pleasure
+- **Tests**
+	- A world with outsiders and insiders implies some kind of test for distinguishing between them
+		- And the trouble with most tests for selecting elites is that there are two ways to pass them: to be good at what they try to measure and to be good at hacking the test itself
+	- The fist question to ask about a field is how honest its test are, because this tells you what it means to be an outsider
+		- This tells you how much to trust your instincts when you disagree with authorities, whether it’s worth going through the usual channels to become one yourself, and perhaps whether you want to work in this field at all
+	- Tests are least hackable when there are constant standards for quality and the people running the rest really care about its integrity
+	- One way to tell whether a field has consistent standards is the overlap between the leading practitioners and the people who teach the subject in universities
+		- At one end of the scale, you have fields like math and physics where nearly all the teachers are among the best practitioners
+		- In the middle are medicine, law, history, architecture, and computer science where many are
+		- At the bottom are business, literature, and the visual arts where there’s almost no overlap between the teachers and the leading practitioners
+			- It’s this end that gives rise to phrases like “those who can’t do, teach”
+	- You’re probably better off studying something moderately interesting with someone who’s good at it than something very interesting with someone who isn’t
+		- Don’t learn things from teachers who are bad at them
+	- How much you should worry about being an outsider depends on the quality of the insiders
+- **Anti-tests**
+	- Where the method of selecting the elite is thoroughly corrupt, most of the good people will be outsiders
+	- If it’s corrupt enough, a test becomes an anti-test, filtering out the people it should select by making them to do things only the wrong people would do
+	- Lord-of-the-flies schools and bureaucratic companies are both the default
+		- There are probably a lot of people who go from one to the other and never realize the whole world doesn’t work this way
+	- If you’re an outsider, your best chances for beating insiders are obviously in fields where corrupt tests select a lame elite
+		- But there’s a catch: if the tests are corrupt your victory won’t be recognized at least in your lifetime
+		- You may feel you don’t need that, but history suggests it’s dangerous to work in fields with corrupt test
+		- You may beat the insiders, and yet not do as good work, on an absolute scale, as you would in a field that was more honest
+- **Risk**
+	- Even in a field with honest tests, there are still advantages to being an outsider
+		- The most obvious is that outsiders have nothing to lose
+			- They can do risky things, and if they fail, so what? Few will notice
+	- The eminent on the other hand, are weighed down by their eminence
+		- Eminence is like a suit: it impresses the wrong people and it constrains the wearer
+	- Being able to take risks is hugely valuable
+		- Everyone values safety too much, both the obscure and the eminent
+		- No one wants to look like a fool, but its very useful to be able to
+		- If most of your ideas aren’t stupid, you’re probably being too conservative
+	- We should judge talent at its best and character at its worst
+	- Almost everyone makes the mistake of treating ideas as if they were indications of character rather than talent - as if having a stupid idea made you stupid
+	- The more complicated the world gets, the more valuable it is to be willing to look like a fool
+- **Delegation**
+	- The more successful people become, the more heat they get if they screw up or even seem to screw up
+		- In this respect, as in many others, the eminent are prisoners of their own success
+			- So the best way to understand the advantages of being an outsider may be to look at the disadvantages of being an insider
+	- If you ask eminent people what’s wrong with their lives, the first thing they’ll complain about is the lack of time
+		- The eminent feel like everyone wants to take a bite out of them
+	- The lives of the eminent become scheduled, and that’s not good for thinking
+	- One of the great advantages of being an outsider is long, uninterrupted blocks of time
+	- Obscurity is like healthy food - unpleasant perhaps but good for you
+		- Whereas fame tends to be like the alcohol produced by fermentation, when it reaches a certain concentration, it kills of the yeast that produced it
+	- The eminent generally respond to the shortage of time by turning into managers
+		- They don’t have time to work
+	- If you want to beat those eminent enough to delegate, one way to do it is to take advantage of direct contact with the medium
+		- In the process pay close attention to accidents and to new ideas you have on the fly
+	- If you’re an outsider, don’t be ruled by plans
+		- Planning is often just a weakness forced on those who delegate
+	- General rule for finding problems best solved in one head is by manufacturing them by taking any project usually done by multiple people and trying to do it all yourself
+	- Another way to find good problems to solve in one head is to focus on the grooves in the chocolate bar - the places where tasks are divided when they’re split between several people
+		- If you want to beat delegation, focus on a vertical slice: for example be both writer and editor or both design buildings and construct them
+	- One especially good groove to span is the one between tools and things made with them
+		- For example, programming languages and applications are usually written by different people and this is responsible for a lot of the worst flaws in programming languages
+			- I think every language should be designed simultaneously with a large application written in it
+	- Techniques for competing with delegation translate well into business because delegation is endemic there
+- **Focus**
+	- Once someone is good at something. they tend to spend all their time doing that
+		- This kind of focus is very valuable actually
+		- Much of the skill of experts is the ability to ignore false trails
+		- But focus has drawbacks:
+			- You don’t learn from other fields, and when a new approach arrives you may be the last to notice
+	- For outsiders this translates into ways to win
+		- One is to work on a variety of things
+			- Since you can’t derive as much benefit yet from a narrow focus, you may as well cast a wider net and derive what benefit you can from similarities between fields
+				- Just as you can compete with delegation by working on larger vertical slices, you can compete with specialization by working on larger horizontal slices
+		- The second way to compete with focus is to see what focus overlooks, in particular, new things
+			- So if you’re not good at anything yet, consider working on something so new that no one else is either
+				- It won’t have any prestige yet, if not one is good at it, but you’ll have it all to yourself
+			- The potential of a new medium is usually underestimated precisely because no one has yet explored its possibilities
+				- In the future when you hear people say of a new platform: yeah its popular and cheap but not ready for real work yet, jump on it
+	- As well as being comfortable working on established lines, insiders generally have a vested interest in perpetuating them
+		- The professor who made his reputation by discovering some new idea is not likely to be the one to discover its replacement
+		- This is particularly true of companies, who have not only skill and pride anchoring them to the status quo, but money as well
+			- The Achilles heel of successful companies is their inability to cannibalize themselves
+				- Many innovations consist of replacing something with a cheaper alternative, and companies just don’t want to see a path whose immediate effect is to cut an existing source of revenue
+	- If you’re an outsider you should actively seek out contrarian projects
+		- Instead of working on things the eminent have made prestigious, work on things that could steal that prestige
+	- The really juicy new approaches are not the ones insiders reject as impossible, but those they ignore as undignified
+- **Less**
+	- Outsiders are not merely free but compelled to make things that are cheap and lightweight
+		- And both are good bets for growth: cheap things spread faster, and lightweight things evolve faster
+	- The eminent on the other hand are almost forced to work on a large scale
+		- Instead of garden sheds, they must design huge art museums
+		- One reason they work on big things is because they can: they’re flattered by such opportunities
+		- They also know big projects will by their sheer bulk impress the audience
+	- Outsiders can work on small things and there’s something very pleasing about small things
+		- Small things can be perfect; big ones always have something wrong with them
+		- But there’s a magic in small things that goes beyond such rational explanations
+			- All kids know it, small things have more personality
+		- Plus making them is more fun
+			- You can do what you want, you don’t have to satisfy committees
+		- And perhaps, most important, small things can be done fast
+	- Working on small things is also a good way to learn
+		- The most important kinds of learning happen one project at a time
+			- The faster you cycle through projects, the faster you’ll evolve
+	- Plain materials have a charm like small scale
+	- In addition, there’s the challenge of making do with less
+		- Every designer’s ears perk up at the mention of that game, because its a game you can’t lose
+		- Paradoxically there are cases where fewer resources yield better results, because the resigner’s pleasure at their own ingenuity more than compensates
+	- If you’re an outsider, take advantage of your ability to make small and inexpensive things
+		- Cultivate the pleasure and simplicity of that kind of work, one day you will miss it
+- **Responsibility**
+	- Responsibility is an occupational disease of eminence
+	- The worst thing is that it allows you to not focus on earl work
+		- Just as the most dangerous forms of procrastination are those that seem like work, the danger of responsibilities is not just that they can consume a whole day, but that they can do it without setting off the kind of alarms you’d set off if you spent a whole day sitting on a park bench
+	- A lot of the pain of being an outsider is being aware of one’s own procrastination
+		- But this is actually a good thing
+			- You’re at least close enough to work that the smell of it makes you hungry
+	- As an outsider, you’re just one step away from getting things done
+		- A huge step, admittedly, and one that most people never seem to make, but only one step
+		- If you can summon up the energy to get started, you can work on projects with an intensity that few insiders can match
+			- For insiders, work turns into a duty laden with responsibilities and expectations
+				- Its never so pure as it was when they were young
+- **Audience**
+	- Copying is a good way to learn but copy the right things
+	- What are genuine advantages of being an insider?
+		- The greatest is an audience
+- **Hacking**
+	- Just try hacking something together
+	- Hacking something together means deciding what to do as you’re doing it not a subordinate executing the vision of his boss
+	- It implies the result won’t be pretty because it will be made quickly out of inadequate materials
+	- Something hacked together means something that barely solves the problem or maybe doesn’t solve the problem at all, but another you discovered enrolee
+	- The main value of that initial version is not the thing itself but what it leads to
+	- The word try is an especially valuable component
+		- You’re driven by curiosity instead of duty
+		- This means the wind of procrastination will be in your favour: instead of avoiding this work, this will be what you do as a way of avoiding other work and when you do it, you’ll be in a better mood
+		- The more the work depends on imagination, the more that matters, because most people have more ideas when they’re happy
+	- Should have spent less time worrying and more time building, if you’re not sure what to do, make something
+- **Inappropriate**
+	- If you really want to score big, the place to focus is the margin of the margin: the territories only recently captured from the insiders
+		- This is where you’ll find the juiciest projects still undone, either because they seemed to risky, or silly because there were too few insiders to explore everything
+	- There are so many essays yet unwritten; these tends to be the naughtier ones
+	- You’re on the right track when people complain that you’re unqualified, or that you’ve done something inappropriate
+		- If people are complaining, that means you’re doing something rather than sitting around which is the first step
+		- And if they’re driven to such empty forms of complaint, that means you’ve probably done something good
+	- If you make something and people complain that it doesn’t work, that’s a problem
+	- The best thing of all is when people call what you’re doing inappropriate
+		- Be inappropriate
+			- When you hear people saying that you’re golden, and they incidentally are busted
+- In high school you’re led to believe your whole future depends on where you go to college but it turns out only to buy you a couple years
+	- By your mid-20s the people worth impressing already judge you more by what you’ve done than where you went to school
+	- 
+

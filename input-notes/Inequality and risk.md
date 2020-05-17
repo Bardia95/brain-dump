@@ -1,0 +1,47 @@
+**Inequality and risk**
+**
+**
+- Suppose you wanted to get rid of economic equality; there are two ways to do it:
+	- Give money to the poor
+	- Take it away from the rich
+		- But they amount to the same thing, because if you want to give money to the poor, you have to get it from somewhere
+- To make the poor richer without simply shifting money from the rich:
+	- Help poor become more productive by improving access to educations
+		- Instead of taking money from engineers and giving it to checkout clerks, you could enable people who could have become checkout clerks to become engineers
+			- This is an excellent strategy
+				- It doesn’t reduce economic inequality though because it makes the rich richer too
+- If you want to reduce economic inequality instead of just improving the overall standard of living you have to push down on the top as well as pushing up on the bottom
+- The only practical solution is to let people do the best work they can, and then (either by taxation or by limiting what they can charge) to confiscate whatever you deem to be surplus
+- Reducing economic inequality is identical with taking money from the rich
+	- If you lop off the top of the possible rewards, you thereby decrease people’s willingness to take risks
+	- There are whole classes of risks that are not longer worth taking if the maximum return is decreased
+- Startups are intrinsically risky
+	- If that kind of risk doesn’t pay, venture investing, as we know it, doesn’t happen
+		- Then you’re asking government employees to do the one thing they are least able to do: take risks
+			- The important thing in government is to not make the right choices but to make choices that can be justified later if they fail
+			- If there is a safe option, thats the one a bureaucrat will choose
+	- If VCs weren’t allowed to get rich, they’d behave like bureaucrats
+- If you’re going to invest your time in something with a small chance of succeeding, you’ll only do it if there is a proportionally large payoff
+	- If large payoffs aren’t allowed, you may as well play it safe
+- If you can’t ensure your own security, the next best thing is to make a nest for yourself in some large organization where your status depends mostly on seniority
+- Eliminating economic inequality means eliminating startups
+- The argument applies proportional
+- New technology and new jobs both come disproportionately from new companies
+- The riskiest startups are the ones that generate the most growth if they succeed
+	- If you cut investors’ appetite for risk, the most beneficial startups are the first to go
+- Without startups we’d have to accept lower rates of technological growth
+- If you’re content to develop new technologies at a slower rate than the rest of the world, what happens is that you don’t invent anything at all
+	- The only thing you can offer in return is raw materials and cheap labour
+		- Other countries then can do whatever they like with you:
+			- Install puppet governments, siphon off your best workers, use your women as prostitutes, dump their toxic waste on your territory
+		- The only defense is to isolate yourself, as communist countries did in the 20th century
+			- Problem then is you have to become a police state to enforce it
+- Problem here is not wealth but corruption
+	- We don’t need to prevent people from  being rich if we can prevent wealth from translating into power
+- How do you break the connection between wealth and power?
+	- Demand transparency
+		- The single most important step is to log everything
+- The connection between wealth and power flourishes in secret
+	- Expose all transactions and you will greatly reduce it
+	- 
+

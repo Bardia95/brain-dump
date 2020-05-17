@@ -1,0 +1,92 @@
+**Taste for Makers**
+**
+**
+- A lot of people think taste is subjective
+	- They think that their thoughts are a tangle of unexamined impulses
+		- Most of us are taught as kids to leave this tangle unexamined
+		- After telling you that taste is merely a matter of personal preference, they tell you how Da Vinci is an objectively great artist
+- Trouble is that taste is not just personal preference
+- Whatever job people do, they naturally want to do it better
+	- Matter of pride and pleasure
+- As you continue to design things you’ll get better at it
+	- Your taste will change
+	- You will know you are getting better
+		- Showing that your old taste was worse
+- After acknowledging there is good and bad you can start studying design in detail
+	- How has your taste changed?
+	- What caused your mistakes?
+	- What have other people learned about design?
+- **Good design is simple**
+	- When you’re forced to be simple, you’re forced to face the real problem
+		- When you can’t deliver ornament, you have to deliver substance
+- **Good design is timeless**
+	- A way to make yourself find the best answer:
+		- If you can imagine someone surpassing you, you should do it yourself
+	- Also a way to avoid the grip of fashion
+		- If you make something that will look good far in the future, its appeal must derive from merit more than fashion
+	- if you want to make something that will appeal to future generations, one way is to try and appeal to past generations
+		- Hard to predict future, but sure it will be like the past in caring nothing for present fashions
+			- If it appeals to people today and in 1500s it will probably in 2500
+- **Good design solves the right problem**
+	- A lot of bad design is industrious but misguided
+		- Example: sans-serif fonts resembling underlying letterform but less legible
+	- Problems can be improved as well
+- **Good design is suggestive**
+	- A building or object should let you use it how you want
+	- In software, this means giving users a few basic elements that they can combine as they wish
+- **Good design is often slightly funny**
+	- Humour is related to strength
+		- To have a sense of humour is to be strong
+			- Keeping a sense of humour means shrugging off misfortunes and to lose one’s sense of humour is to be wounded by them
+		- Good design may not have to be funny but its hard to imagine something that could be called humourless also being good design
+- **Good design is hard**
+	- Good pain vs. bad pain
+		- Need difficult problems not fickle clients or unreliable materials
+	- Form should follow function
+- **Good design looks easy**
+	- Appearance of ease comes with practice
+		- Your unconscious mind handles tasks that used to require conscious thought
+- **Good design uses symmetry**
+	- Repetition and recursion
+	- Recursion is a big win in math and engineering
+		- Inductive proofs are wonderfully short
+		- In software a recursion solution to a problem is the best one
+	- Danger of symmetry is that it can be used in place of thought
+- **Good design resembles nature**
+	- Nature has had a long time to work on problems so its a good sign when your answer resembles nature’s
+	- Its not cheating to copy
+	- We can also imitate nature’s process with algorithms
+- **Good design is redesign**
+	- It takes confidence to throw away work
+	- You have to think there’s more where that came from
+	- People often convince themselves mediocre work is good out of fear it will turn out worse
+	- You should cultivate dissatisfaction
+	- Mistakes are natural and should be easy to acknowledge and easy to fix instead of being treated as a disaster
+	- It helps to have a medium that makes change easy
+- **Good design can copy**
+	- Unknowing imitation is almost a recipe for bad design
+	- The ambitious are not content to imitate
+	- The second phase int he growth of taste is a conscious attempt at originality
+	- The greatest masters achieve a kind of selflessness
+		- They just want the right answer and if part of that answer has been discovered by someone else already that’s not a reason not to use it
+		- Confident enough to take from anyone without feeling their own vision will be lost in the process
+- **Good design is often strange**
+	- Don’t squash it if strangeness starts to appear
+		- Can’t cultivate it
+	- Trying to make good things inevitably results in a distinctive way
+	- The only style worth having is one you can’t help
+	- No shortcut to strangeness
+- **Good design happens in chunks**
+	- Nothing more powerful than a community of talented people working on related problems
+	- Great work comes disproportionately from a few hotspots
+	- At any given time, there are a few hot topics and a few groups doing great work on them and its nearly impossible to do good work yourself if you’re too far removed from one of these centres 
+- **Good design is often daring**
+	- Today’s experimental error is tomorrow’s new theory
+	- If you want to discover great new things pay particular attention to places where conventional wisdom and truth don’t quite meet
+	- Its easier to see ugliness than to imagine beauty
+		- Most beautiful things come from fixing ugly things
+		- Great work usually seems to happen because someone sees something and thinks they can do better than that
+	- Intolerance for ugliness is not in itself enough
+		- Have to understand a field well before you can develop a good sense for what needs fixing
+	- **Recipe for great work is: very exacting taste plus the ability to gratify it **
+

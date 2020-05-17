@@ -1,0 +1,68 @@
+**Ideas for startups**
+
+- The main value of your initial idea is that in the process of discovering its broken you’ll come up with your real idea
+- The initial idea is just a starting point
+- Not a blueprint but a question
+	- Instead of saying that your idea is to make a collaborative web-based spreadsheet, say:
+		- Could one make a collaborative, web-based spreadsheet?
+	- Assertion provokes objections in a way a question doesn’t
+		- A question doesn’t seem so challenging; it becomes:
+			- Let’s try making a web-based spreadsheet and see how far we get
+	- If an idea is a blueprint it has to be right but if its a question it can be wrong so long as its wrong in a way that leads to more ideas
+- One valuable way for an idea to be wrong is to be only a partial solution
+	- Is there some way to bite off some subset of the problem, then gradually expand fro there?
+		- This will generally work
+- To generate such questions you need 2 things:
+	- To be familiar with promising new technologies
+		- Ingredients startup ideas are made of
+	- The right kind of friends
+		- Conversations with friends are the kitchen they’re cooked in
+- Work on things that maximize your future options
+- A job that lets you work on exciting new stuff tend to pay less because part of the compensation is in the form of the new skills you’ll learn
+- Ideas get developed in the process of explaining them to the right kind of person
+	- You need that resistance just as a carver needs the resistance of the wood
+- The most productive setup is a kind of together-alone-together sandwich
+	- Together you talk about some hard problem, probably getting nowhere
+	- Then the next morning one of you has an idea in the shower about how to solve it
+	- You run eagerly to tell the others and together you work out the kinks
+- Taking a shower is like a form of meditation 
+	- You’re alert but theres nothing to distract you
+	- Its in a situation like this, where your mind is free to roam that it bumps into new ideas
+- Perhaps letting your mind wander is like doodling with ideas
+	- You have certain mental gestures you’ve learned in your work and when you’re not paying attention you keep making these same gestures somewhat randomly
+		- In effect, you call the same functions on random arguments
+		- That’s what a metaphor is: a function applied to an argument of the wrong type
+- You’re not just looking for good ideas but good new ideas and you have a better chance of generating those if you combine stuff from distant fields
+- Harder fields may be better sources because to attack hard problems you need powerful solvents
+	- Math is a good source of metaphors - good enough that it’s worth studying for just for that
+- Related fields are also good sources, especially when they’re related in unexpected ways 
+- To have good ideas you need to be working on some problem
+	- You can’t just start with randomness
+	- You need to start with a problem and then let your mind wander just far enough for new ideas to form
+- In a way its harder to see problems than their solutions
+- Most people prefer to remain in denial about problems because they’re irritating to dwell on
+- Recipe: 
+	- Finding the problem intolerable and feeling it must be possible to solve it
+- One way to make something people want is to look at stuff people use now thats broken
+- The way to kill a monopoly is to redefine the problem as a superset of the current one
+- Another classic way to make something people want is to take a luxury and make it into a commodity
+- If you make something dramatically cheaper you often get qualitative changes, because people start to use it in different ways
+	- For example, once computers get so cheap that most people can have one of their own you can use them as communication devices
+- Often to make something dramatically cheaper you have to redefine the problem
+	- The best way to solve a problem is often to redefine it
+- Making things cheaper is actually a subset of a more general technique
+	- Making things easier
+		- Making things easier to use
+- What you want to be able to say about technology is: it just works
+- More options just means more rope to hang yourself
+- Take any almost any existing technology produced by a big company and assume you could build something way easier to use
+- You need some kind of exit strategy
+- Look at big companies, think what they should be doing and do it yourself
+	- Just be sure to make something multiple acquirers will want
+		- When there’s only one acquirer, they don’t have to hurry
+		- They can take their time and copy you instead of buying you
+		- If you want to get market price, work on something where there’s competition
+- Best way to generate startup ideas is to do what hackers do for fun:
+	- Cook up amusing hacks with your friends
+- 
+

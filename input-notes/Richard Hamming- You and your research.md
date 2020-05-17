@@ -1,0 +1,69 @@
+Richard Hamming: You and your research
+
+- One of the characteristics of successful scientists is having courage
+- Turning the problem around a bit, changed a defect to an asset
+	- For example, many scientists when they found they couldn’t do a problem finally began to study why not
+		- Then they turned it around the other way and said but of course this is what it is, and got an important result
+	- So ideal working conditions are very strange
+		- The ones you want aren’t always the best ones for you
+- Knowledge and productivity are like compound interest
+- You have to neglect things if you intend to get what you want done
+- The steady application of effort with a little bit more work intelligently applied is what does it
+	- The misapplication of effort is a very serious matter
+- Great scientists tolerate ambiguity very well
+- If you believe too much you’ll never notice the flaws, if you doubt too much you won’t get started
+	- It requires a lovely balance
+- Necessary to write down every piece of evidence which appears to contradict your beliefs because otherwise they’ll disappear from your mind
+	- When you find apparent flaws and you’ve got to be sensitive and keep track of those things, and keep an eye out for how they can  be explained or how the theory can be changed to fit them
+		- Those are often the great contributions
+- If you are deeply immersed and committed to a topic, day after day after day, your subconscious has nothing to do but work on your problem
+- It’s not the consequence that makes a problem important, it is that you have a reasonable attack
+- You can’t always know exactly where to be, but you can keep active in places where something might happen
+- When an opportunity opens up, get after it and pursue it
+	- Drop all other things and get after an idea because you’ve already thought the thing through
+- Pretty good correlation between those who work with the doors open and those who ultimately do important things although people who work with doors closed often work harder
+	- Somehow they seem to work on slightly the wrong thing - not much but enough that they miss fame
+- You should do your job in such a fashion that others can build on top of it, so they will indeed say “Yes I’ve stood on so and so’s shoulders and I saw further”
+- The essence of science is cumulative
+	- By changing a problem slightly you can often do great work rather than merely good work
+- Instead of attacking isolated problems, make the resolution to never again solve an isolated problem except as characteristic of a class
+- The business of abstraction frequently makes things simple
+- You must present your work so well they will set aside what they’re doing, look at what you’ve done, read it and come back and say “yes that was good”
+- Three things you have to do in selling
+	- Write clearly and well so people will read it
+	- Learn to give reasonably formal talks
+	- Learn to give informal talks
+- Most of the time the audience wants a broad general talk and wants much more survey and background than the speaker is willing to give
+	- You should paint a general picture to say why its important and then slowly give a sketch of what was done
+- If you will learn to work with the system, you can go as far as the system will support you
+- You should dress according to the expectations of the audience spoken to
+	- Know enough not to let your clothes, appearance, manners get in the way of what you care about
+- The appearance of comforting gets you a long way
+	- If you choose to assert your ego in any number of ways you pay a small steady price throughout the whole of your professional career and this over a whole lifetime, adds up to an enormous amount of needless trouble
+- By taking the trouble to tell jokes to the secretaries and being a little friendly, you get superb secretarial help
+- You have to use the system and studying how to get the system to do your work you learn how to adapt the system to your desires
+- Very few of you have the ability to both reform the system and become a first-class anything
+- We can’t always give in, there are times when a certain amount of rebellion is sensible
+- Look for the positive side of things instead of the negative
+- How can you convert a fault into an asset?
+- How can you convert a situation where you haven’t got enough manpower to move into a direction when that’s exactly what you need to do?
+- In summary, some of the reasons why so many people who have greatness within their grasp and don’t succeed are:
+	- They don’t work on important problems
+	- They don’t become emotionally involved
+	- They don’t try and change what is difficult to some other situation which is easily done but is still important
+	- They keep giving themselves alibis why they don’t
+- You want to get rid of those sound absorbers who are nice people but merely say oh yes and find those who will stimulate you right back
+- If you read all the time what other people have done, you will think the way they thought
+	- If you want to think new thoughts that are different, then do what a lot of creative people do - get the problem reasonably clear and then refuse to look at any answers until you’ve thought the problem through carefully how you would do it, how you could slightly change the problem to be the correct one
+- If you want to get recognition long-haul, writing books is more contribution because most of us need orientation
+- Somewhere around every 7 years, make a significant if not complete shift in your field
+	- You tend to use up your ideas
+	- When you go to a new field, you have to start as a baby
+	- You are no longer the big mukity muk and you can start back there and you can start planting those acorns which will become the giant oaks
+- You have to change, you get tired after a while: you use up your originality in one field
+	- You need to get something nearby
+- The day your vision, what you think needs to be done, is bigger than what you can do single-handedly, then you have to move toward management
+	- And the bigger the vision ism, the farther in management you have to go
+- It depends upon what goals and what desires you have, as they change in life you have to prepared to change
+- 
+

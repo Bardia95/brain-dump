@@ -1,0 +1,93 @@
+**Mind the Gap**
+**
+**
+- When people care enough about something to do it well, those who do it best tend to be far better than everyone else
+- Making money is a very specialized skill
+	- People treat it differently as if its wrong to make more money than others
+- Reasons for money being viewed different:
+	- The misleading model of wealth we learn as children, the disreputable way in which most fortunes were accumulated, and the worry that great variations in income are somehow bad for society
+- As children, wealth seems to flow from parents not something that is generated
+- Because of the circumstances they encounter it, children tend to misunderstand wealth
+	- They confuse it with money
+	- They think there is a fixed amount of it
+	- They think of it as something that’s distributed by authorities (and so should be distributed equally)
+	- Rather thanks something that has to be created and might be created unequally
+- Few of us create wealth directly for ourselves
+	- Mostly we create wealth for other people in exchange for money, which we then trade for the forms of wealth we want
+- Because kids are unable to create wealth, whatever they have has to be given to them
+	- And when wealth is something you’re given, then of course it seems that it should be distributed equally
+- In the real world, wealth is (except for a few specialists like thieves and speculators) something you have to create, not something that’s distributed by parents
+	- And since the ability and desire to create it vary form person to person, its not made equally
+- You get paid by doing or making something people want, and those who make more money are often simply better at doing what people want
+	- ***_this is absolutely fucking wrong, a lot of people making a lot of money are hired into their positions by nepotism, corruption, often doing things half-assed (you said so yourself mr graham), and getting paid disproprtionately to how much wealth they are actually creating - the question is how much is this fake money makers compared to true wealth creators_***
+- Doing what people want is not the only way to get money of course
+	- You could also rob banks, solicit bribes, or establish a monopoly
+		- Such tricks account for some variation in wealth, and indeed for some of the biggest individual fortunes but they are not the root cause of variation of income
+		- The root cause of variation in income as Occam’s Razor implies is the same s the root cause of variation in every other human skill
+			- ***_Problem is humans on average can learn anything and become a master at it if they worked and tried hard enough and how their environment affected their upbringing and that environment is en masse destructively affected by the corruption at the highest levels of govt/corps. you can’y just use occams razor here because the economy is so fucking complex that economists don’t even know what’s going to happen, let alone you definitely saying the root cause of variation in income is variation in talent in making money. yes its true that making money is easier with more tech but when you’re artificially holding back the competition using the same underlying mechanisms as stealing then its  not a fair competition and a fair comparison to make. variation in tech + incumbent policies + protectionism + nepotism + in-group out-group dynamics + lingering racism/sexism/opppression, capitalist incentives in government-run orgs. = variation in income. you can’t just throw everything else out and determine a root cause; snowball effects of all the other things combined often outweigh what theoretically should be root cause_***
+- The worth of a person’s wealth generation does not scale linearly
+	- Perhaps the CEO or the NBA player has only 10 times the skill and determination of an ordinary person, but it makes all the difference that its concentrated in one individual
+- In a free market, prices are determined by what buyers want
+	- People like baseball more than poetry, so baseball players make more than poets
+		- To say that a certain kind of work is underpaid is thus identical with saying that people want the wrong things
+			- Well of course people want the wrong things
+			- Then you’re saying that it’s unjust that people want the wrong things
+- To the extent that income varies simply according to how much wealth people create, the distribution may be unequal but its hardly unjust
+- For most of human history the usual way to accumulate a fortune was to steal it
+	- ***_technically still the usual way, africa, middle east, asia, corrupt govt., lazy workers not pulling their weight, unjust policies favouring the rich_***
+- Middle classes made a living largely by creating wealth and had incentive to create a lot if it
+- Once it became possible to get rich by creating wealth, society as a whole started to get richer very rapidly
+	- Nearly everything we have was created by the middle class
+	- The other two classes have effectively disappeared in industrial societies and their names been given to either end of the middle class
+- But it was not till the Industrial Revolution that wealth creation definitively replaced corruption as the best way to get rich
+- In England, corruption only became unfashionable when there started to be other faster ways to get rich
+	- ***_But the way to stay rich over generations remains the same to be corrupt_***
+- 17th century England government office was a recognized route to wealth just like 3rd world countries today
+	- The great fortunes of that time still derived more from corruption than commerce
+	- By the 19th century that changed, continued to be bribes, politics then left to men driven more by vanity than greed
+- Technology made it possible to create wealth faster than you could steal it
+	- The prototypical rich man of the 19th century was an industrialist
+- With the rise of the middle class, wealth stopped being a zero-sum game
+	- Jobs and Woz didn’t have to make us poor to make themselves rich
+- Since for most of history the main route to wealth was to steal it, we tend to be suspicious of rich people 
+- Only a few countries have reached this stage (richest ones)
+	- In most, corruption still has the upper hand
+- Technology will certainly increase the gap between the productive and the unproductive
+- Now high school kids could write software or design web sites, but only some of them will, the rest will still be scooping ice cream
+- The rate at which technology increases our productive capacity is probably polynomial
+	- We should expect to see ever-increasing variation in individual productivity as time goes on
+- Technology should increase the gap in income but it seems to decrease other grapes
+- A hundred years ago, the rich led a different kind of life from ordinary people
+	- Thanks to technology, the rich live more like the average person
+- Technology has made average goods better than their expensive counterparts (custom cars more expensive to maintain, expensive watches are less accurate than timexes)
+- The only thing that technology can’t cheapen is brand
+	- Which is precisely why we hear ever more about it
+	- Brand is the residue left as the substantive differences between rich and poor evaporate
+		- But what label you have on your stuff is a much smaller matter than having it versus not having it
+		- Even the poorest Americans drive cars, and it is only because we’re so well trained by advertising that we can even recognize the especially expensive ones
+- If there is enough demand for something, technology will make it cheap enough to sell in large volumes, and the mass produced versions will be if not better at least more convenient
+	- And there is nothing the rich like more than convenience
+- The rich spend their time more like everyone else now too
+	- Now most people who are rich enough not to work do anyway
+	- Its not just social pressure that makes them do so; idleness is lonely and demoralizing
+- Nor do we have the social distinctions there were a hundred years ago
+	- A woman who married a rich man was expected to drop friends who didn’t
+		- You’d seem like a barbarian if you behaved that way today
+- Materially and socially, technology, seems to be decreasing the gap between the rich and the poor, not increasing it
+- In a society of serfs and warlords, certainly, variation in income is a sign of an underlying problem
+	- In a modern society, increasing variation in income is a sign of health
+	- Technology seems to increase the variation in productivity at faster than linear rates
+- All the unfunny kinds of wealth creation slow dramatically in a society that confiscates private fortunes
+- In every case, the creation of wealth seems to appear and disappear like the noise of a fan as you switch on and off the prospect of keeping it
+- If you suppress variations in income, whether by stealing private fortunes as feudal rulers used to do, or by taxing them away, as some modern governments have done, the result always seems to be the same: society as a whole ends up poorer
+- You need rich people in your society not so much because in spending their money they create jobs but because of what they have to do to get rich (create wealth and wealth is what people want) - aka you need rich people because they make what you want
+- One of the biggest divergences between the Daddy Model and reality is the valuation of hard work
+	- In the Daddy Model hard work is in itself deserving
+	- In reality, wealth is measured by what one delivers not how much effort it costs
+		- If I paint someone’s house the owner shouldn’t pay me extra for doing it with a toothbrush
+- Part of the reason for the tenacity of the Daddy Model may be the dual meaning of distribution
+	- Statistical distribution vs. distributing things
+- To say anything meaningful about income trends, you have to talk about real income, or income as measured in what it can buy
+	- But the usual way of calculating real income ignores much of the growth in wealth over time, because it depends on a  consumer price index created by bolting end to end a series of numbers that are only locally accurate and that don’t include the prices of new inventions until they become so common that their prices stabilize
+- Perhaps the designers of admissions processes should take a lesson from eh example of computer security and instead of just assuming that their system can’t be hacked, measure the degree to which it is
+

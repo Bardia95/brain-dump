@@ -1,0 +1,42 @@
+Is it worth being wise?
+
+- Wisdom is knowing what to do in a lot of situations
+- A wise person is someone who usually knows the right thing to do
+- A smart person knows what to do in situations where few others could
+- To the extent wisdom means anything, it refers to a grab-bag of qualities as various as self-discipline, experience, and empathy
+- We can become smarter just as we can become wiser
+	- The alarming thing is that we may have to choose between the two
+- If wisdom and intelligence are the average and peaks of the same curve, then they converge as the number of points on the curve decreases
+	- If there’s just one point they’re identical: the average and maximum are the same
+	- But as the number of points increases, wisdom and intelligence diverge
+	- And historically, the number of points on the curve seems to have been increasing
+		- Our ability is tested in an ever wider range of situations
+- As knowledge gets more specialized, there are more points on the curve, and the distinction between the spikes and the average becomes sharper
+- The really striking change, as intelligence and wisdom drift apart, is that we may have to decide which we prefer
+	- We may not be able to optimize for both simultaneously
+- Human knowledge seems to grow fractal
+	- Time after time, something that seemed a small and uninteresting area turns out, when examined up close, to have as much in it as all knowledge up to that point
+	- Several of the fractal buds that have exploded since ancient times involve inventing and discovering new things
+		- Math, for example, used to be something a handful of people did part-time, now its the career of thousands
+	- And in work that involves making new things, some old rules don’t apply
+- People whose work is to invent or discover things are in the same position as the runner
+	- There’s no way for them to do the best they can, because there’s no limit to what they could do
+- If you’re doing the kind of work in which problems are presented to you and you have to choose between several alternatives, there’s an upper bound on your performance: choosing the best every time
+- But as knowledge has grown more specialized, there are more and more types of work in which people have to make new things and in which performance is therefore unbounded
+	- Intelligence has become increasingly important relative to wisdom because there is more room for spikes
+- Wisdom seems to come largely curing childish qualities and intelligence largely from cultivating them
+- The path to intelligence seems to be through working on hard problems
+	- No amount of discipline can replace genuine curiosity 
+	- Cultivating intelligence involves identifying some bias (some tendency to be interested in certain types of things) and nurturing it
+- The wise are all much alike in their wisdom, but very smart people tend to be smart in distinctive ways
+- Most of our educational traditions aim at wisdom
+	- So perhaps one reason schools work badly is that they’re trying to make intelligence using recipes for wisdom
+- Kids can tell at a young age that a contest where everyone wins is a fraud
+	- You want to encourage kids to come up with things on their own, but you can’t simply applaud everything they produce
+- The path to wisdom is through discipline and the path to intelligence through carefully selected self-indulgence
+	- Wisdom is universal, and intelligence idiosyncratic
+	- And while wisdom yields calmness, intelligence much of the time leads to discontentment
+- If we acknowledge that some amount of frustration is inevitable in certain kinds of work, we can mitigate its effects
+- The knowledge whose utility drops sharply is the kind that has little relation to other knowledge 
+	- Mere conventions like languages and safe combinations, or random facts
+

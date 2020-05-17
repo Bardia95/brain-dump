@@ -1,0 +1,51 @@
+**How to do what you love**
+
+- Do what you love
+- If we make kids work on dull stuff it might be wise to tell them that tediousness is not the defining quality of work and indeed that the reason they have to work on dull stuff now is so they can work on more interesting stuff later
+- School has trained them to regard work as an unpleasant duty
+- Having a job is said to be even more onerous than schoolwork
+	- And yet all the adults claim to like what they do
+	- You can’t blame kids for thinking “I am not like these people, I am not suited to this world”
+- Actually they’e been told 3 lies:
+	- The stuff they’ve been taught to regard as work in school is not real work
+	- Grownup work is not necessarily worse than schoolwork
+	- Many of the adults around them are lying when they say they like what they do
+- If you take a boring job to give your family a high standard of living, as so many people do, you risk infecting your kids with the idea that work is boring
+- Do what you love doesn’t mean do what you would like to do most this second
+	- The rule about doing what you love assumes a certain length of time
+	- It doesn’t mean do what will make you happiest this second but what will make you happiest over some longer period like a month or year
+- You have to like your work more than any unproductive pleasure
+- To be happy you have to be doing something you not only enjoy but admire
+	- You have to be able to say, at the end, wow, that’s pretty cool
+- Try to do things that would make your friends say wow
+- What you should not do is worry about the opinion of anyone beyond your friends
+- You shouldn’t worry about prestige
+	- Prestige is the opinion of the rest of the world
+- Prestige is just fossilized inspiration
+	- If you do anything well enough, you’ll make it prestigious
+- Avoid any field whose practitioners say: “just trying to make a living”
+- The danger is when money is combined with prestige, as in corporate law or medicine
+	- A comparatively safe and prosperous career with some automatic baseline prestige is dangerously tempting to someone young who hasn’t thought much about what they really like
+- The test of whether people love what they do is whether they’d do it even if they weren’t paid for it - even if they had to work at another job to make a living
+- Finding work you love does usually require discipline
+- Try to do a good job at whatever you’re doing even if you don’t like it
+- Always produce
+- One has to make a living and it’s hard to get paid for doing work you love
+- Organic route:
+	- As you become more eminent, gradually to increase the parts of your job that you like at the expense of those you don’t
+- Two-job route:
+	- Work at things you don’t like to get money to work on things you do
+- Anything you work on changes you
+	- If you work too long on tedious stuff, it will rot your brain
+- When you’re young, you’re given the impression that you’ll get enough information to make each choice before you need to make it
+	- But this is certainly not so with work
+	- When you’re deciding what to do, you have to operate on ridiculously incomplete information
+	- At best you may have a couple internships but not all jobs offer internships and those that do don’t teach you much more about the work than being a batboy teaches you about playing baseball
+- In the design of lives, as in the design of most other things, you get better results if you use flexible media
+- Early on seek jobs that let you do many different things so you can learn faster what various kinds of work are like
+- Constraints give your life shape
+	- Remove them and most people have no idea what to do
+- A plan that promises freedom at the expense of knowing what to do with it may not be as good as it seems
+- Expect a struggle
+- 
+

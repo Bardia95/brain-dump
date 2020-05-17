@@ -1,0 +1,33 @@
+**Design and research**
+
+- Design doesn’t have to be new but has to be good
+- Research doesn’t need to be good but has to be new
+- Best design surpasses its predecessors by using new ideas
+- Best research solves problem that are new and worth solving
+- Biggest difference is in design you focus more on the user
+	- Design begins by asking who is this for and what do they need from it?
+- What they need not what they want
+- The customer is always right int he sense that the measure of good design is how well it works for the user
+- Users are often mistaken about what they really want
+- Most likely to get good design if the intended users include the designer himself
+	- When designing something for a group that doesn’t include you it tends to be for people you consider to be less sophisticated than you
+		- Looking down on the user, however benevolently, inevitably corrupts the designer 
+	- If you think you’re designing for idiots, odds are you’re not designing something good, even for idiots
+- Even if you’re designing for the most sophisticated of users, you’re still designing for humans
+	- Different in research; scientific ideas aren’t meant to be ergonomic
+- Design is all about people
+	- All the arts have to pander to the interests and limitations of humans
+- Brain just as idiosyncratic as body
+	- Some ideas easy, some ideas hard
+		- Limited capacity for dealing with detail
+- To get good design you have to get close to and stay close to your users
+- You have to calibrate your ideas on actual users constantly, especially in the beginning
+- If building something new, get a prototype in front of users ASAP
+- Trying to create the complete finished product in the beginning is a recipe for disaster
+- Morale is key in design
+	- Building something by gradually refining a prototype is good for morale because it keeps you engaged
+		- In software: always have working code
+		- If you’re writing something you can test in an hour then you have the prospect of an immediate reward to motivate you
+- To make something good, you have to be thinking “wow this is really great” not “what a piece of shit; these fools will love it”
+- Design usually has to be under the control of a single person to be any good
+

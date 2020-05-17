@@ -1,0 +1,42 @@
+**Beating the averages**
+**
+**
+- Viaweb - plan to write software that would let end users build online web stores
+	- First web-based application
+	- Written in Lisp
+- The truly serious hacker should learn Lisp
+	- Experience with Lisp will make you a better programmer
+- Software is an extremely competitive business that is prone to natural monopolies
+	- A company that gets software written faster and better will put its competitors out of business
+- Start-ups are all or nothing propositions
+	- Bet on the wrong tech and the competitor will crush you
+- When choosing technology, ignore what others are doing, and consider only what works best
+	- Start-ups can’t do what all other startups are doing
+		- If you do everything the average start-up does, expect average performance
+		- Better do something odd or else you’ll be in trouble
+- With web-based software, you can use whatever language you want
+- In business, there is nothing more valuable than a technical advantage your competitors don’t understand
+	- Surprise is worth as much as force
+	- A startup should give its competitors as little information as possible
+- Programming languages vary in power
+- It is a mistake to program in anything but the most powerful one
+	- Exceptions:
+		- If you’re writing a program that has to work very closely with a program in a certain language
+		- If it only has to do something very simple
+		- If you’re writing a short throw-away program use the language with the best library functions for the task
+- Many languages have a macro, Lisp has unique macros related to parentheses
+- Lisp is the strongest/most powerful language on the continuum
+- Lisp code is made from Lisp data objects
+	- After its read by the parser, its made of data structures you can traverse
+- Lisp has no syntax
+	- You write programs in the parse trees that get generated within the compiler when other languages get parsed
+	- But these parse trees are fully accessible to your program
+		- You can write programs that manipulate them
+			- These programs are called macros in Lisp (programs that write programs)
+- Programming languages aren’t just tech but what programmers think in
+	- Half tech, half religion
+	- Median language changes very slowly
+- Handy tip for evaluating competitors is their job listings:
+	- Job listings have to be specific about what they want or they’ll get the wrong candidates
+	- The more of an IT flavour the job description has the less dangerous the company is
+

@@ -1,0 +1,102 @@
+Lies we tell kids
+
+- Adults lie constantly to kids
+- We were all lied to as kids, and some of the lies we were told still affect us
+- Kids see few cracks in the view of the world presented to them
+- **Protection**
+	- The most common reason adults give as to why they lie to kids is to protect them
+	- Imagine if you tried to keep someone in as protected an environment as a newborn till age 18
+		- To mislead someone so grossly about the world would seem not protection but abuse
+	- One reason life sucks at 15 is that kids are trapped in a world designed for 10 year olds
+	- A lot of things adults conceal from smaller children they conceal because they’d be frightening, not because they want to conceal the existence of such things
+		- Misleading the child is just a byproduct
+	- Few tell their kids about the differences between the real world and the cocoon they grew up in
+		- Combine this with the confidence parents try to instil in their kids, and every year you get a new crop of 18 year olds who think they know how to run the world
+	- In preindustrial times, teenage kids were junior members of the adult world and comparatively well aware of their shortcomings
+		- They could see they weren’t as strong or skillful as the village smith
+- **Sex and drugs**
+	- They still think of them as children at 14, even though biologically they’re not so the taboo against child sex still has force
+	- One things adults conceal about sex they also conceal about drugs: that it can cause great pleasure
+		- That’s what makes sex and drugs so dangerous
+		- The desire for them can cloud one’s judgement - which is especially frightening when the judgment being clouded is the already wretched judgment of a teenage kid
+	- If parents told their kids the truth about sex and drugs it would be: the reason you should avoid these things is that you have lousy judgement, people with twice your experience still get burned by them
+		- But this may be one of those cases where the truth wouldn’t be convincing, because one of the symptoms of bad judgement is believing you have good judgement
+- **Innocence**
+	- Another reason parents don’t want their kids having sex is that they want to keep them innocent
+	- Most parents use words when talking to other adults that they wouldn’t want their kids to use
+		- This is another one of those conspiracies that everyone participates in: everyone knows you’re not supposed to swear in front of kids
+			- The function of swearwords is to mark the speaker as an adult
+	- One reason we want kids to be innocent is that we’re programmed to like certain kinds of helplessness
+		- It’s not surprising we’d have an inborn desire to love and protect helpless creatures, considering human offspring are so helpless for so long
+		- Without the helplessness that makes kids cute, they’d be very annoying
+			- They’d merely seem like incompetent adults
+		- Not just that he’d be annoying but that he’d have cut off his prospects for growth  so early
+			- To be jaded you have to think you know how the world works, and any theory a 10 year old had about that would probably be a pretty narrow one
+	- Innocence is also open-mindedness, we want kids to be innocent so they can continue to learn
+		- There are some kinds of knowledge that get in the way of other kinds of knowledge
+		- If you’re going to learn that the world is a brutal place full of people trying to take advantage of one another, you’re better off learning it last
+			- Otherwise, you won’t bother learning much more
+		- Very smart adults often seem unusually innocent
+- **Death**
+	- We conceal death from kids because small children are particularly horrified by it
+		- They want to feel safe, and death is the ultimate threat
+	- On this topic, kids often want to be lied to
+		- They want to believe they’re living in a comfortable safe world
+- **Identity**
+	- Some parents feel a strong adherence to an ethnic or religious group and want their kids to feel it too
+	- This usually requires two different kinds of lying:
+		- The first lie to tell the child that he or she is an X, and the second is whatever specific lies Xes differentiate themselves by believing
+	- Telling a child they have a particular ethnic or religious identity is one of the stickiest things you can tell them
+		- Almost anything else you tell a kid, they can change their mind about later when they start to think for themselves
+		- But if you tell a kid they’re a member of a certain group, that seems nearly impossible to shake
+	- When parents are of different religions, they’ll often agree between themselves that their children will be raised as Xes
+		- And it works, the kids obligingly grow up considering themselves as Xes
+	- One reason this works so well is the second kind of lie involved:
+		- The truth is common property
+		- You can’t distinguish your group by doing things that are rational and believing things that are true
+			- If you want to set yourself apart from other people you have to do things that are arbitrary and believe things that are false
+			- After having spent their whole lives doing things that are arbitrary and believing things that are false, and being regarded as odd by outsiders on that account, the cognitive dissonance pushing children to regard themselves as Xes must be enormous
+				- If they aren’t an X, why are they attached to all these arbitrary beliefs and customs?
+				- If they aren’t an X, why do all the non-Xes call them one?
+	- This probably accounts for a lot of the spread of modern religions, and explains why their doctrines are a combination of the useful and the bizarre
+		- The bizarre half is what makes the religion stick, and the useful half is the payload
+- **Authority**
+	- One of the least excusable reasons adults lie to kids is to maintain power over them
+	- Most adults makes some effort to conceal their flaws from children
+		- They don’t want to tarnish themselves in the children’s eyes
+	- Because adults conceal their flaws and at the same time insist on high standards of behaviour for kids, a lot of kids grow up feeling they fall hopelessly short
+	- As a rule people planning to go into teaching rank academically near the bottom of the college population
+- **School**
+	- What kids get taught in school is a complex mix of lies
+	- The problem is a lot of propaganda gets slipped into the curriculum in the name of simplification
+	- Public school textbooks represent a compromise between what various powerful groups want kids to be told
+		- The lies are rarely overt
+			- They usually consist either of omissions or of over-emphasizing certain topics at the expense of others
+		- The view of history we got in elementary school was a crude hagiography, with at least one representative of each powerful group
+	- As subjects got softer, the lies got more frequent
+		- By the time you got into politics and recent history, what we were taught was pretty much pure propaganda
+			- For example, we were taught to regard political leaders as saints - especially the recently martyred Kennedy and King
+				- It was astonishing to later learn that they’d been both serial womanizers and that Kennedy was a speed freak to boot
+				- By the time King’s plagiarism emerged, I’d lost the ability to be surprised by the misdeeds of famous people
+	- Doubt you could teach kids recent history without teaching them lies, because practically everyone who has anything to say about it has some kind of spin to put on it
+		- Much recent history consists of spin
+		- It would probably be better just to teach them metafacts like that
+	- Probably the biggest lie told in schools is that the way to succeed is through following the rules
+		- In fact most such rules are just hacks to manage large groups efficiently
+- **Peace**
+	- Often when we lie to people it’s not part of any conscious strategy but because they’d react violently to the truth
+		- Kids, almost buy definition, lack self-control
+		- They react violently to things and so they get lied to a lot
+	- Whenever we lie to kids to protect them, we’re also usually lying to keep the peace
+- **Detox**
+	- We all arrive at adulthood with heads full of lies
+	- There’s never a point where the adults sit you down and explain all the lies they told you
+		- They’ve forgotten most of them, so if you’re going to clear these lies out of your head, you’re going to have to do it yourself
+	- Whenever I’ve been able to undo a lie I was told, a lot of other things fell into place
+	- The first step in clearing your head is to realize how far you are from a neutral observer
+		- It’s not enough to consider your mind a blank slate, you have to consciously erase it
+- It’s easy for small children to consider themselves immortal, because time seems to pass so slowly for them
+	- To a 3 year old, a day feels like a month might to an adult
+	- So 80 years sounds to him like 2400 years would to us
+- If you freak out when people tell you alarming things, they won’t tell you them
+

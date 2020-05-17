@@ -1,0 +1,95 @@
+**How to start a startup**
+
+- Three things needed:
+	- Good people
+	- Make something customers actually want
+	- Spend as little money as possible
+- What people have is now often so bad that it doesn’t take brilliance to do better
+- Look at something people are trying to do, and figure out how to do it in a way that doesn’t suck
+- Value in ideas mainly as starting points: as questions for the people who had them to continue thinking about
+- Good people = people you can describe as an animal
+- For programmers:
+	- Was the person genuinely smart?
+	- Can they actually get things done?
+	- Could you stand to have them around?
+- As a rule you can recognize genuinely smart people by their ability to say things like:
+	- I don’t know
+	- Maybe you’re right
+	- I don’t understand x well enough
+- Just work on stuff you like with people you like
+- Ideally you want between 2-4 founders
+	- 7-8 leads to disagreements that linger and factions that harden
+	- You don’t want mere voting, you need unanimity
+- In a tech startup, founders should include technical people
+	- Business people are bad at deciding to do with technology because they don’t know what the options are or which kinds of problems are hard and which are easy
+		- They also can’t tell which hackers are good
+- If you want to invest two years in something that will help you succeed in business, evidence suggests you’d do better learning how to hack than get an MBA
+- In nearly every failed startup, the real problem was that customer’s didn’t want the product
+- In a startup, your initial plans are almost certain to be wrong in some way, and your first priority should be to figure out where
+- It’s worth trying very very hard to make technology easy to use
+	- A 10% improvement in ease of use doesn’t just increase your sales 10%, it’s more likely to double it
+- How to figure out what customers want?
+	- Watch them
+	- One of the best places is trade shows which is worth it as market research
+- If you’re developing technology for money, you’re probably not going to be developing it for people like you
+- Best odds are in niche markets
+- If you want ideas for startups, one of the most valuable things you could do is find a middle-sized non-technology company and spend a couple weeks just watching what they do with computers
+- Start by writing software for smaller companies, because its easier to sell to them
+	- If you want to win through better technology, aim at smaller customers
+- In technology, the low end always eats the high end
+	- It’s easier to make an inexpensive product more powerful than to make a powerful product cheaper
+- Wise to take money from investors
+	- To be self-funding you have to start as a consulting company and tis hard to switch fro that to a product company
+- The way to get rich from a startup is to maximize the company’s chances of succeeding, not to maximize the amount of stock you retain
+	- If you can trade stock for something that improves your odds, its probably a smart move
+- You need seed capital to pay expenses while you develop a prototype
+	- Since only a 5 figures are needed its comparatively easy to raise 
+- Angel investors expect a brief description of what you plan to do and how you’re going to make money from it and the resumes of the founders
+- When everyone feels they’re getting a slightly bad deal, the stock is optimally apportioned
+- No one comes and arrests you if you don’t do everything you’re supposed to when starting a company
+- You should get all the founders to sign something agreeing that everyone’s ideas belong to the company and that the company is going to be everyone’s only job
+	- You should ask what else they’ve signed
+- VCs are slow to make up their minds and can take months
+- You have more leverage negotiating with VCs than you realize
+- VC is a source of money and be inclined to go with whoever offered the most money the soonest with the least strings attached
+- Best plan is not to be overtly secretive but not tell them everything either
+- Talk to as many VCs as you can even if you don’t want their money
+	- They may be on the board of someone who will buy you
+	- If you seem impressive, they’ll be discouraged from investing in your competitors
+- Most efficient way to reach VCs is at conferences that are occasionally organized for startups to present to them
+- Don’t spend your money
+- In most businesses, the advantages of being first to market are not so overwhelmingly great
+- Unless you’re in a market where products are as undifferentiated as cigarettes, vodka or laundry detergent, spending a lot on brand advertising is a sign of breakage
+- Your first batch of users are the ones who were smart enough to find you by themselves
+	- There is nothing more valuable in the early stages of a startup than smart users
+	- If you listen to them, they’ll tell you exactly how to make a winning product
+		- And not only will they give you this advice for free, they’ll pay you
+- Once you get big it gets hard to change our product
+- Nothing more important than understanding your business
+- Users before advertisers
+- The slower you burn through your funding, the more time you have to learn
+	- Encourage a culture of cheapness
+- Aim for cool and cheap, not expensive and impressive
+- Rent an apartment as an office
+- The key to productivity is for people to come back after dinner
+	- Those hours after the phones stop ringing are by far the best for getting work done
+	- Great things happen when  group of employees go out to dinner together, talk over ideas and then come back to their offices to implement them
+- The most important way to not spend money is by not hiring people
+	- Hiring people is the worst thing a company can do
+	- People are a recurring expense, the worst kind
+	- They cause you to grow out of our space and perhaps even move to the sort of uncool office building that will make your software worse
+	- Worst of all, they slow you down
+- The only reason to hire someone is to do something you’d like to do but can’t
+- Start a startup if you’re a good hacker, between 23-38 and who wants to solve the money problem in one shot instead of getting paid gradually over a conventional working life
+- You need to see what it’s like in an existing business before you try running your own
+- Valuable lessons about software business
+	- Don’t have a lot of meetings
+	- Don’t have chunks of code that multiple people own
+	- Don’t have a sales gay running the company
+	- Don’t make a high end product
+	- Don’t let your code get too big
+	- Don’t find leaving bugs to QA people
+	- Don’t go too long between releases
+	- Don’t isolate developers from users
+- It’s hard to repeat a brilliant performance, but it’s straightforward to avoid errors
+

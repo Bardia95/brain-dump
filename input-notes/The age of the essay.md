@@ -1,0 +1,63 @@
+**The age of the essay**
+**
+**
+- High schools imitate universities
+	- Students imitate their English teachers
+	- Who are imitating classical scholars
+		- Who are merely the inheritors of a tradition out of what was 700 years ago, fascinating and urgently needed work
+- A real essay doesn’t take a position and defend it
+- Defending a position may be a necessary evil in a legal dispute but it’s not the best way to get at the truth
+	- You miss subtleties this way
+	- The real problem is that you can’t change the question
+- This principle is built into the very structure of the things they teach you to write in high school
+- The topic sentence is your thesis, chosen in advance, the supporting paragraphs the blows you strike in the conflict and the conclusion… what is the conclusion?
+	- It seemed that we were just supposed to restate what we said in the first paragraph but in different enough words that no one could tell
+	- Why bother?
+		- When you understand the origins of this sort of essay you can see where the conclusion comes from
+			- It’s the concluding remarks to the jury
+- Good writing should certainly be convincing but it should be convincing because you got the right answers not because you did a good job of arguing
+- When giving a draft of an essay to friends two things you want to know:
+	- What parts are boring?
+	- What seems unconvincing?
+		- The boring bits can be fixed by cutting but don’t try and fix the unconvincing bits by arguing more cleverly, talk the matter over
+- Expressing ideas helps to form them
+	- In a real essay you’re writing for yourself, you’re thinking out loud
+- Writing something that other people will read forces you to think well; so it does matter to have an audience
+- Questions aren’t enough; an essay has to come up with answers
+	- An essay you publish ought to tell the reader something he didn’t already know
+	- What you tell them doesn’t matter so long as its interesting
+- An essay is supposed to be a search for truth
+	- It would be suspicious if it didn’t meander
+- Of all the places to go next, choose the most interesting
+	- Always know generally what you want to write about but not the specific conclusions you want to reach; from paragraph to paragraph let the ideas take their course
+- Fundamentally an essay is a train of thought, but a cleaned-up train of thought as dialogue is cleaned-up conversation
+	- You need to cut and fill to emphasize the central thread, like an illustrator inking over a pencil drawing
+	- But don’t change so much that you lose the spontaneity of the original
+- Essays should aim for maximum surprise
+- Best way to get information out of people was to ask them what surprised them?
+	- Extremely useful question you can ask of the most unobservant people and it will extract information they didn’t even know they were recording
+- Surprises are things that you not only didn’t know but that contradict things you thought you know
+	- And so they’re the most valuable sort of fact you can get
+	- They’re like a food that’s not merely healthy, but counteracts the unhealthy effects of things you’ve already eaten
+- You should only write about things you’ve thought about a lot
+	- And anything you come across that surprises you, who’ve thought about the topic a lot will probably surprise most readers
+- Two ingredients for good essay writing
+	- Few topics you’ve thought a lot about
+	- Some ability to ferret out the unexpected
+- Collecting surprises is like learning history
+	- The more anomalies you’ve seen the more easily you’ll notice new ones
+	- Which means as you grow older life should become more and more surprising
+- It’s good to have a habit of asking questions, especially questions beginning with Why
+	- Especially useful to ask why about things that seem wrong
+- Pay attention to things that seem wrong in a humorous way
+	- Surprises make us laugh and surprises are what one wants to deliver
+	- Write down things that surprise you
+- Whatever you study, include history but social and economic history not political history
+	- History is all the data we have so far
+	- Studying history also gives one confidence that there are good ideas waiting to be discovered right under our noses
+- Above all, make a habit of paying attention to things you’re not supposed to either because they’re inappropriate or not important or not what you’re supposed to be working on
+	- If you’re curious about something, trust your instincts
+	- Follow the threads that attract your attention; if there’s something you’re really interested in, you’ll have an uncanny way of leading back to it anyway
+- Gradualness is very powerful
+- 
+

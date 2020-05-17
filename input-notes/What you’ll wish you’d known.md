@@ -1,0 +1,55 @@
+**What you’ll wish you’d known**
+**
+**
+- Don’t get demoralized, don’t think that you can’t do what other people can
+	- Don’t underestimate your potential
+- Don’t commit to anything in the future, but just look at the options available now and choose those that will give you the most promising range of options afterward
+- It’s not so important what you work on so long as you’re not wasting your time
+	- Work on things that interest you and increase your options, and worry later about which you’ll take
+- Math vs. economics
+	- Math is harder but yields more options like going into economics later
+- Look for smart people and hard problems
+	- Smart people tend to clump together and if you can find such a clump, its probably worthwhile to join it
+- Work on hard problems
+- When in high school don’t let yourself believe that your job is to be a high school student
+	- You let your need to be good at what you did be satisfied by merely doing well in school
+- Adults take responsibility of themselves
+	- Making a living is only a small part of it; far more important is to take intellectual responsibility for oneself
+- Don’t be defined by being a student
+- Your biggest regret later will be wasting so much time
+- Prep schools hack the admissions process 
+	- Taking the same kid and making him more appealing than if he went to public school
+- Most people feel that their job in life is to be a promising college applicant
+	- But that means you’re designing your life to a satisfy a process so mindless that there’s a whole industry devoted to subverting it
+- If you want to do good work, what you need is a great curiosity about a promising question 
+	- It can take years to zero in on a productive question because it can take years to figure out what a subject is really about it
+- Find a question that makes the world interesting
+	- People who do great things look at the same world everyone else does but notice some odd detail that’s compellingly mysterious
+- If it takes years to articulate great questions what do you do?
+	- Work towards finding one
+	- Great questions don’t appear suddenly they gradually congeal in your head and what makes them congeal is experience
+- The way to get a big idea to appear in your head is not to hunt for big ideas but to put in a lot of time on work that interests you and in the process keep your mind open enough that a big idea can take roost
+- Pick a project that seems interesting that will take less than a month and something you have the means to finish
+	- Do something hard enough to stretch you but only just, especially at first 
+	- If deciding between two projects choose whichever seems most fun
+		- If one blows up in your face, start another
+		- Repeat till the process becomes self-sustaining and each project generates the next one
+- There’s something pleasing about a secret project and you can take more risks because no one will know if you fail
+- Don’t worry if a project doesn’t seem to be on the path to some goal you’re supposed to have 
+	- Paths can bend a lot more than you think so let the path grow out of the project
+	- The most important thing is to be excited about it because its by doing that you learn
+- Don’t disregard unseemly motivations
+	- One of the most powerful motivations is the desire to be better than other people than something
+- Another powerful motivator is the desire to do, or know, things you’re not supposed to
+	- Closely related is the desire to do something audacious
+- A key ingredient in many projects, is to find good books
+	- Most books are bad
+	- You have to search actively for the tiny number of good books
+- The important thing is to get out there and do stuff
+	- Instead of waiting to be taught, go out and learn
+- Your life doesn’t have to be shaped by admissions officers; it could be shaped by your own curiosity
+- You start being an adult when you decide to take responsibility for your life which you can do at any age
+- The only difference between adults and high school kids is that adults realize they need to get things done and high school kids don’t
+	- That realization hits most people around 23 but get to work earlier
+	- Maybe you can be the first generation whose greatest high school regret isn’t how much time you wasted
+

@@ -1,0 +1,49 @@
+Why startups condense in America
+
+- Startups happen in clusters
+- **The US allows immigration**
+- **The US is a rich country**
+	- There is some speed limit to the evolution of an economy
+	- Economies are made out of people and attitudes can only change a certain amount per generation
+- **The US is not yet a police state**
+- **You can fire people in America**
+	- Across industries and countries, there’s a strong inverse correlation between performance and job security
+- **In America work is less identified with employment**
+	- The less you identify work with employment, the easier it becomes to start a startup
+	- When you see your career as a series of different types of work, instead of a lifetime’s service to a single employer, there’s less risk in starting your own company, because you’re only replacing one segment instead of discarding the whole thing
+- **America is not too fussy**
+	- The worst problem in other countries is probably the effort required just to start a company
+	- Tip for governments that want to encourage startups:
+		- Read the stories of existing startups, and then try to simulate what would have happened in your country
+			- When you hit something that would have killed Apple, prune it off
+	- Young startups are fragile and a society that trims its margins will sharply kill them all
+- **America has a large domestic market**
+	- In a small country, a startup has a harder task: they have to sell internationally from the start
+- **America has venture funding**
+	- Startups-VC pattern makes them startup hubs
+	- The cycle is slow, taking 5 years before a startup founder can make angel investments
+	- Another advantage of private universities is that a good chunk of the country’s wealth is managed by enlightened investors
+- **America has dynamic typing for careers**
+	- Startups are the kind of thing people don’t plan, so you’re more likely to get them in a society where its ok to make career decisions on the fly
+	- Perhaps America’s lousy public schools have a hidden advantage, because they’re so bad, the kids adopt an attitude of waiting for college
+	- Better to make everyone feel like a late bloomer than a failed child prodigy
+- **Attitudes **
+	- In the US, it’s ok to be overtly ambitious, and in most of Europe it’s not
+- **How to do better**
+	- Be interesting itself
+	- Public transportation
+	- The kind of people you want to attract to your silicon valley like to get around by train, bicycle and on foot
+- **Capital gains**
+	- Have lower capital gains taxes
+	- If capital gains vary, you move assets, not yourself, so changes are reflected at market speeds
+	- The lower the rate, the cheaper it is to buy stock in growing companies as opposed to real estate, bonds or stocks bought for the dividends they pay
+	- Politics is a matter of choosing between the unpalatable and the disastrous
+- **Immigration**
+	- Smarter immigration policy
+	- If you made a competing technology hub that let in all smart people, you’d immediately get more than half the world’s top talent, for free
+	- American immigration policy keeps out most smart people and channels the rest into unproductive jobs
+	- Treat immigration like recruiting - seek out the smartest people and get them to come to your country
+	- A country that got immigration right would have a huge advantage
+		- At this point you could become a mecca for smart people simply by having an immigration system that let them in
+		- 
+

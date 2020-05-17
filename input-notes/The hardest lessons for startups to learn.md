@@ -1,0 +1,68 @@
+The hardest lessons for startups to learn
+
+- **Release early**
+	- ** **Most important reason to release early, is that it makes you work harder
+		- When you’re working on something that isn’t released, problems are intriguing
+		- When it’s out there, problems are alarming, there is a lot more urgency once you release
+- **Keep pumping out features**
+	- Feature - one unit of hacking - one quantum of making users’ lives better
+	- The more ideas you implement, the more ideas you’ll have
+	- You should make your system better at least in some small way every day or 2
+	- Users love a site that’s constantly improving
+	- They’ll like you even better when you improve in response to their comments, because customers are used to companies ignoring them
+	- Assume that anything you’ve made is far short of what it could be
+- **Make users happy**
+	- The vast majority of people who visit your site will be casual visitors
+		- It’s them you have to design your site for
+		- The people who really care will find what they want by themselves
+	- Anyone who has used the web for more than a couple weeks has been trained to click on Back after following a link
+		- So your site has to say: “Wait! Don’t click on Back. This site isn’t lame. Look at this, for example.”
+	- Two things you have to do to make people pause:
+		- The most important is to explain as concisely as possible, what the hell your site is about
+			- A startup should be able to explain in one or two sentences exactly what it does
+		- Give people everything you’ve got, right away
+			- If you have something impressive, try to put it on the front page, because that’s the only one most visitors will see
+	- You tell visitors what your site is about by showing them
+	- The job of your site is to convert casual visitors into users
+	- If you have decent growth, you’ll win in the end, no matter how obscure you are now
+- **Fear the right things**
+	- You should compete against what someone else could be doing, not just what you can see people doing
+	- The three main threats are internal disputes, inertia, and ignoring users
+		- Each is by itself enough to kill you
+		- Worst one would be ignoring users
+	- The imagination of nature is greater than the imagination of man
+		- You’ll find more interesting things by looking at the world than you could ever produce just by thinking
+			- This principle is very powerful
+- **Commitment is a self-fulfilling prophecy**
+	- The most important quality in a startup founder is determination
+	- In a startup, there’s always some disaster happening
+		- So if you’re the least bit inclined to find an excuse to quit, there’s always one right there
+	- If you lack commitment, it will seem to you that you’re unlucky
+	- If you’re determined to stick around, people will pay attention to you, because odds are they’ll have to deal with you later
+		- You’re a local, not just a tourist, so everyone has to come to terms with you
+	- If an acquirer thinks you’re going to stick around no matter what, they’ll be more likely to buy you, because if they don’t and you stick around, you’ll probably grow, your price will go up, and they’ll be left wishing they’d bought you earlier
+		- If you make it clear you’re going to succeed no matter what, the only reason you need them is to make it happen a little faster, you’re much more likely to get money
+	- Stubbornness is a disastrous quality in a startup
+		- You have to be determined, but flexible
+- **There is always room**
+	- ** **There is always room for new stuff
+	- The reason we don’t see the opportunities all around us is that we adjust to however things are, and assume that’s how things have to be
+	- For all practical purposes, there is no limit to the number of startups
+- **Don’t get your hopes up**
+	- It’s ok to be optimistic about what you can do but assume the worst about machines and other people
+	- Shielding your optimism is nowhere more important than with deals
+		- If your startup is doing a deal, just assume its not going to happen
+	- Practical reason: to prevent you from leaning your company against something that’s going to fall over, taking them with it
+	- VCs and corp dev guys are professional negotiators
+		- They’re trained to take advantage of weakness
+		- And as pros they do this more than you so don’t even try to bluff them
+		- The only way a startup can have any leverage in a deal is genuinely not to need it
+- **Speed, not money**
+	- Regard making money as a boring errand to be got out of the way as soon as possible
+	- A startup is best seen not as a way to get rich, but as a way to work faster
+	- Human life is fairly miraculous, and palpably short, you’re given this marvellous thing and then poof its taken away
+		- If you love life, don’t waste time, because time is what life is made of
+	- What’s important about startups is the speed
+	- **
+**
+

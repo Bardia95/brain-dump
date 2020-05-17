@@ -1,0 +1,56 @@
+How to be Silicon Valley
+
+- What it takes is the right people
+- You only need 2 kinds of people to create a technology hub:
+	- Rich people and nerds
+- Startup investors are a distinctive type of rich people
+	- They tend to have a lot of experience themselves in the technology business
+	- This helps them pick the right startups and means they can supply advice and connections as well as money
+- Nerds like other nerds
+	- Smart people will go wherever other smart people are
+	- And in particular to great universities
+- You not only need a university but one of the top handful in the world
+	- It has to be good enough to act as a magnet, drawing the best people from thousands of miles away
+	- And that means it has to stand up to existing magnets like MIT and Stanford
+- Professors when they’re deciding where they’d like to work, consider one thing above all:
+	- The quality of the other faculty
+	- If you managed to recruit, en masse, a significant number of the best young researchers, you could create a first-rate university from nothing overnight
+- If you paid 200 people hiring bonuses of $3 million a piece, you could put together a faculty that would bear comparison with any in the world
+	- And from that point the chain reaction would be self-sustaining
+	- So whatever it costs to establish a mediocre university, for an additional half billion or so you could have a great one
+- Your university has to be in a town that has attractions other than the university
+	- It has to be a place where investors want to live and students want to stay after they graduate
+- They want to live somewhere with personality
+	- A town with personality is one that doesn’t feel mass-produced
+		- Probably have to ban large development projects
+- Old towns have 2 advantages:
+	- They’re denser because they were laid out before cars and they’re more varied because they were built one building at a time
+	- You could have both now, just have building codes that ensure density and ban large scale developments
+- You have to keep out the biggest developer of all: the government
+- You need a town with the right personality
+- Nerds like the kind of town where people walk around smiling
+- Nerds will pay a premium to live in a town where the people are really smart but you don’t have to pay as much for that
+- Most nerds like quieter pleasures
+	- They like cafes instead of clubs, used bookshops instead of fashionable clothing shops, hiking instead of dancing, sunlight instead of tall buildings
+	- A nerd’s idea of paradise is Berkeley or Boulder
+- It’s the young nerds who start startups, so it’s those specifically the city has to appeal to
+- You can’t have a large existing population of stodgy people
+- Liberal cities tolerate odd ideas and smart people by definition have odd ideas
+- To attract the young, a town must have an intact centre
+	- In most American cities, the centre has been abandoned and the growth, if any, is in the suburbs
+- The two US cities that could most easily be turned into new silicon valleys are Boulder and Portland
+	- Both have the kind of effervescent feel that attracts the young
+		- They’re each only a great university short of becoming a silicon valley
+- Startups beget startups
+	- People who work for startups start their own
+	- People who get rich from startups fund new ones
+	- This kind of organic growth is the only way to produce a startup hub, because its the only way to grow the expertise you need
+- You need time to grow a silicon valley
+	- The university you could create in a couple years, but the startup community around it has to grow organically
+	- The cycle time is limited by the time it takes a company to succeed, which probably averages about 5 years
+- Initial seed can be quite small
+- Venture investors prefer to fund startups within an hour’s drive
+	- The centralizing effect of venture firms is a double one: they cause startups to form around them, and those draw in more startups through acquistiions
+- Any plan in which multiple independent buildings are gutted or demolished to be redeveloped as a single project is a net loss of personality for the city
+- 
+

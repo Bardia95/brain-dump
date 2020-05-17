@@ -1,0 +1,105 @@
+**What you can’t say**
+**
+**
+- There are moral fashions that are arbitrary and invisible to most people
+	- Moral fashion is mistaken for good
+	- Violating moral fashions can get you fired, ostracized, imprisoned or even killed
+- If you could travel back in a time machine, one thing would be true no matter where you went: you’d have to watch what you said
+	- Opinions we consider harmless could have gotten you in big trouble
+	- In every period, people believed things that were just ridiculous and believed them so strongly that you would have gotten in terrible trouble for saying otherwise
+- What would someone coming back to visit us in a time machine have to be careful not to say?
+	- Find general recipes for discovering what you can’t say, in any area
+- The conformist test
+	- Our moral map contains a few mistakes certainly
+	- We believe what we believe because we were told so
+	- The idea seemed to be that something was wrong with you if you thought things you didn’t dare say out loud
+		- Backwards, almost certainly something is wrong with you if you don’t think things you don’t dare say out loud
+- Trouble
+	- The statements that make people mad are the ones they worry might be believed
+		- The statements that make people maddest are those they worry might be true
+- Heresy
+	- Think of labels and think of some ideas that would be called that label and then ask for each if it might be true?
+- Time and space
+	- One way to figure out what we’re getting wrong is to look at what used to be acceptable and is now unthinkable
+	- In a field like physics, if we disagree with past generations its because were right and they’re wrong but this comes rapidly less true as you move away from the certainty of hard science
+		- By the time you get to social questions, many changes are just fashion; the age of consent fluctuates like hemlines
+	- We may imagine we are a great deal smarter and more virtuous than past generations but the more history you read, the less likely this seems
+		- People in past times were much like us
+			- Not heroes, not barbarians; whatever their ideas were they were ideas reasonable people could believe
+	- The side that’s shocked is most likely to be the mistaken one
+	- Suspect the only taboos that are more than taboos are the ones are that are universal or nearly so
+		- Murder for example
+	- But any idea that’s considered harmless in a significant percentage of times and places, and yet taboo in ours, is a good candidate for something we’re mistaken about
+- Prigs
+	- Kids’ heads are repositories of all our taboos
+		- Seems fitting that kids’ ideas should be bright and clean
+		- The picture we give them of the world is simplified and sanitized to suit our ideas of what kids ought to think
+	- A well brought-up teenage kid’s brain is a more or less complete collection of all our taboos, in mint condition because they’re untainted by experience
+- Mechanism
+	- Moral fashions more often seem to be created deliberately
+	- When there’s something we can’t say its often because some group doesn’t want us to
+		- The prohibition will be strongest when the group is nervous
+	- To launch a taboo, a group has to be poised halfway between weakness and power
+		- A confident group doesn’t need taboos to protect it
+		- Yet a group has to be powerful enough to enforce a taboo
+	- Suspect the biggest source of moral taboos will turn out to be power struggles in which one side only barely has the upper hand
+	- Most struggles, whatever they’re really about, will be cast as struggles between competing ideas
+		- It’s easier to get people to fight for an idea and whichever side wins, their ideas will also be considered to have triumphed
+	- Struggles are never about ideas, just that they will always made to be seem to be about ideas, whether they are or aren’t
+		- There is nothing so wrong as the principles of the most recently defeated opponent
+	- Early adopters will be driven by ambition; self-consciously cool people who want to distinguish them from the common herd
+		- As the fashion becomes established they’ll be joined by a second, much larger group, driven by fear
+		- The second group adopt the fashion not because they want to stand out but because they are afraid of standing out
+	- What groups are powerful but nervous, and what ideas would they like to suppress?
+		- What ideas were tarnished by association when they ended up on the losing side of a recent struggle?
+		- If a self-consciously cool person wanted to differentiate himself from preceding fashions, which of their ideas would he tend to reject?
+		- What are conventional-minded people afraid of saying?
+	- Many of our taboos are rooted deep in the past
+- Why
+	- If like other eras, we believe things that will later seem ridiculous I want to know what they are so that I can at least avoid believing them
+	- You especially need a brain that’s in the habit of going where it’s not supposed to
+		- Great work tends to grow out of ideas that others have overlooked, and no idea is so overlooked as one that’s unthinkable
+	- A good scientist does not merely ignore conventional wisdom but makes a special effort to break it
+		- Scientists go looking for trouble; this should be the m.o. of any scholar
+	- There seems to be a clear correlation between intelligence and willingness to consider shocking ideas
+		- This isn’t just because smart people actively work to find holes in conventional thinking
+		- Conventions also have less hold over them to start with
+		- You can see that in the way they dress
+	- In any competitive field, you can win big by seeing things that others dare not
+	- Training yourself to think unthinkable thoughts has advantages beyond the thoughts themselves; it’s like stretching
+		- If you can think things so outside the box that they’d make people’s hair stand on end, you’ll have no trouble with the small trips outside the box that people call innovative
+- Pensieri Stretti
+	- When you find something you can’t say, what do you do with it?
+		- Don’t say it or at least pick your battles
+	- Argue with idiots, and you become an idiot
+	- The most important thing is to be able tot think what you want, not say what you want
+		- If you feel you have to say everything you think, it may inhibit you from thinking improper thoughts
+	- Draw a sharp line between your thoughts and your speech
+		- Inside your head, anything is allowed
+		- Within your head, make a point of encouraging the most outrageous thoughts you can imagine
+	- Every era has its heresies, and if you don’t get imprisoned for them you will at least get in enough trouble that it becomes a complete distraction
+	- The trouble with keeping your thoughts secret though is that you lose the advantages of discussion
+		- Talking about an idea leads to more ideas
+		- So the optimal plan is to have a few trusted friends you can speak openly to
+- Viso Sciloto?
+	- Perhaps the best policy is to make it plain that you don’t agree with whatever zealotry is current in your time but not be too specific about what you disagree with
+		- Better still answer “I haven’t decided”
+	- Ratchet the debate up one level of abstraction
+		- If you argue against censorship in general you can avoid being accused of whatever heresy is contained in the book or film that someone is trying to censor 
+	- Another way to counterattack is with metaphor
+		- Best of all is probably humour
+- ABQ
+	- When people are bad at open-mindedness they don’t know it
+	- The arrival of new fashions make old fashions easy to see because they seem so ridiculous by contrast
+	- To see fashion in your own time requires a conscious effort
+		- Without time to give you distance you have to create distance yourself
+		- Instead of being part of the mob, stand as far away from it as you can and watch what its doing
+		- Pay especially close attention whenever an idea is being suppressed
+	- Labels like “pornography, violence and hate speech” are probably the biggest external clue
+		- If a statement is false, that’s the worst thing you can say about it
+		- You don’t need to say that its heretical 
+		- And if it isn’t false it shouldn’t be suppressed
+		- So when you see statements being attacked as x-ist or y-ic whether in 1630 or 2030 thats a sure sign that something is wrong
+		- When you hear such labels being used ask why
+	- 
+

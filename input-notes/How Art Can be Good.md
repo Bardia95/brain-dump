@@ -1,0 +1,46 @@
+How Art Can be Good
+
+- Art has an audience and its purpose is to interest its audience
+- Some works of art are meant to shock, others to please
+	- Some are meant to jump out at you, and other to sit quietly in the background
+- But all art has to work on an audience and members of the audience share things in common
+- Paintings with faces in it will interest people more than one without
+- Once you start talking about audiences, you don’t have to argue simply that there are or aren’t standards of taste
+	- Instead tastes are a series of concentric rings, like ripples in a pond
+		- There are some things that will appeal to you and your friends, others that will appeal to most people your age, others that will appeal to most humans
+	- In the middle of the pond there are overlapping sets of ripples
+		- For example, there might be things that appealed particularly to men or to people from a certain culture
+- If good art is art that interests its audience then when you talk about art being good too also have to say for what audience
+	- The audience people are implicitly talking about when they say a work of art is good: they mean it would engage any human
+- People’s preferences aren’t random
+- Ask “What would make the painting more interesting to people”
+- If you narrow the definition of beauty to something that works a certain way on humans, and you observe how much humans have in common, it turns out to be a property of objects after all
+	- You don’t have to choose between something being a property of the subject or the object if subjects all react similarly
+		- Being good art is thus a property of objects as much as being toxic to humans is: it’s good art if it consistently affects humans in a certain way
+- Intentionally make a painting or drawing look like it was done faster than it was
+- For the average person, brand dominates all other factors in the judgement of art
+- Though appeal to people is a meaningful test, in practice you can’t measure it
+- While anyone’s reaction to a famous painting will be warped at first by its fame, there are ways to decrease its effects
+	- One is to come back to the painting over and over
+		- After a few days the fame wears off, and you can start to see it as a painting
+	- Another is to stand close
+		- A painting familiar from reproductions looks more familiar from ten feet away; close in you see details that get lost in reproductions and which you’re therefore seeing for the first time
+- There are two main kinds of error that get in the way of seeing a work of art: biases you bring from your own circumstances, and tricks played by the artist
+	- Tricks are straightforward to correct
+		- Merely being aware of them usually presents them from working
+			- For example, airbrushed lettering that looks like shiny metal is impressive but once you study how its done you see that its a pretty cheesy trick - one of the sort that relies on pushing a few visual buttons really hard to temporarily overwhelm the viewer
+		- The way not to be vulnerable to tricks is to explicitly seek out and catalog them
+			- When you notice a whiff of dishonesty coming from some kind of art, stop and figure out what’s going on
+			- When someone is obviously pandering to an audience that’s easily fooled, whether its something making shiny stuff to impress ten year olds, or someone making conspicuously avant-garde stuff to impress would-be intellectuals, learn how they do it
+				- Once you’ve seen enough examples of specific types of trips, you start to become a connoisseur of trickery in general, just as professional magicians are
+		- What counts as a trick?
+			- Roughly, it’s something done with contempt for the audience
+	- It’s harder to escape the influence of your own circumstances, but you can at least move in that direction
+		- The way to do it is to travel widely, in both space and time
+			- If you go and see all the different kinds of things people like in other cultures, and learn about all the different things people have liked in the past, you’ll probably find it changes what you like
+		- If you find a work of art that would appeal equally to your friends, to people in Nepal, and to the ancient Greeks, you’re probably onto something
+- There is such a thing as good art
+	- It’s art that interests its human audience, and since humans have a lot in common, what interests them is not random
+	- Since there’s such a thing as good art, there’s also such a thing as good taste, which is the ability to recognize it
+- Art students now are wrongly told that everyone is just supposed to explore their own personal vision
+
